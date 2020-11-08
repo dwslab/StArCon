@@ -1,0 +1,5 @@
+*  **debates**: This folder contains our parse of the featured debates from [debatepedia.org](http://www.debatepedia.org). Each file contains one debate and is tab-separated. The name of the file is the debate's id. The title is what we call "topic" in our paper. In the lines starting with "pro_" or "con_", the first entry is the argument's summary and the second one the full argument. We want to thank the International Debate Education Association for their permission to publish this data under their CC license, see also [idebate.org](https://idebate.org/).
+*  **annotations.csv**: The results of our crowd annotation process
+*  **instructions.html**: The instructions that the crowd annotators got.
+*  **conseq.tsv**: The arguments related to consequences used in our paper. The first string in a line specifies the debate, the second one the exact argument.
+*  **other.tsv**: The other arguments used in our paper. The first string in a line specifies the debate, the second one the exact argument.

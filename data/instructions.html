@@ -1,0 +1,70 @@
+<script src="https://assets.crowd.aws/crowd-html-elements.js"></script>
+
+<head>
+  <style>
+    .leftcolumn {
+      float: left;
+      background-color: lightgrey;
+      width: 28%;
+    }
+    .rightcolumn {
+      float: left;
+      width: 69%;
+    }
+
+  </style>
+</head>
+
+<body>
+<div class="row">
+ <div class="leftcolumn" style="padding-left:1%; padding-right:1%">
+   <h2> Instructions </h2>
+   <p> First, decide the <i> stance </i> that the argument has towards the topic.
+     For example, the argument <i>"Smartphones often distract students from class"</i>
+     is <b>against</b> the topic <i>"Smartphones in School"</i>,
+     while it is <b>in favor</b> of the topic <i>"<u>Banning</u> Smartphones in School"</i>. <br>
+   <p> Second, decide whether the argument refers to or suggests a <i>consequence</i> related to the topic.
+     In the example above, <i>students being distracted from class</i> is a consequence related to both topics.
+   In contrast, the argument <i>"Forbidding smartphones in school is barely realizable"</i> does not refer to any consequence. </p>
+ </div>
+ <div class="rightcolumn" style="padding-left:1%">
+   <crowd-form answer-format="flatten-objects">
+     <div>
+       <hr>
+       <p style="font-size:large"><b>Topic:</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ${topic} <br>
+         <b>Argument:</b> ${argument} </p>
+         <p>What is the <i>stance</i> of the argument towards the topic?<br>
+         <crowd-radio-group>
+           <crowd-radio-button name="stance_pro">
+             In favor
+           </crowd-radio-button>
+           <crowd-radio-button name="stance_con">
+             Against
+           </crowd-radio-button>
+           <crowd-radio-button name="stance_neither">
+             Neither
+           </crowd-radio-button>
+           <crowd-radio-button name="stance_dk">
+             I don't know
+           </crowd-radio-button>
+         </crowd-radio-group></p>
+
+         <p>Does the argument refer to or suggest a <i>consequence</i> related to the topic? <br>
+     <crowd-radio-group>
+         <crowd-radio-button name="cons_yes">
+             Yes
+         </crowd-radio-button>
+         <crowd-radio-button name="cons_no">
+             No
+         </crowd-radio-button>
+         <crowd-radio-button name="cons_dk">
+             I don't know
+         </crowd-radio-button>
+     </crowd-radio-group></p>
+     <hr>
+      <crowd-text-area name="comments" label="Comments / Feedback (optional)"> </crowd-text-area>
+   </div>
+ </crowd-form>
+</div>
+</div>
+</body>
