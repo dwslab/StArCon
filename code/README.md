@@ -15,9 +15,9 @@ We provide a stance classification system as described in our paper "Unsupervise
  * Alternative to EffectLexicon, not recommended: +/-EffectWordNet: https://mpqa.cs.pitt.edu/lexicons/effect_lexicon/
 
 3. If using the connotation frames (recommended), set up Wordnet:
- * Download "WordNet": http://wordnetcode.princeton.edu/wn3.1.dict.tar.gz
- * Create a file which, among other things, specifies the location of wordnet. The content of the file is specified at the end of this readme (*).
- * When specifying the location of WordNet in step 4, you have to specify the location of the file created in this step!
+ * Download and unpack "WordNet": http://wordnetcode.princeton.edu/wn3.1.dict.tar.gz
+ * Modify the file "Properties.XML" by specifying the location to wordnet.
+ * When specifying the location of WordNet in step 4, you have to specify the location to the Properties.XML file.
 
 4. Specify the locations of the lexicons. You have three possibilites:
  * Editing the locations in the class "utils.Settings.java".
@@ -41,18 +41,3 @@ We provide a stance classification system as described in our paper "Unsupervise
     * predict=true to get the predictions and brief explanations for each datainstance. Default: predict=false
     * evaluate=false for not getting an evaluation, such as F1-scores. This should be especially used when no stance labels are provided in the dataset. Default: evaluate=true
     * ewn=true for using EffectWordNet instead of the extended Connotation Frames. The effect lexicon needs to be set accordingly. Default: ewn=false.
-
-(*) Content of the Wordnet-Properties file. You have to specify the path to wordnet where indicated.
-<?xml version="1.0" encoding="UTF-8"?>
-<jwnl_properties language="en">
-  <version publisher="Princeton" number="3.0" language="en"/>
-  <dictionary class="net.didion.jwnl.dictionary.FileBackedDictionary">
-    <param name="dictionary_element_factory"
-      value="net.didion.jwnl.princeton.data.PrincetonWN17FileDictionaryElementFactory"/>
-    <param name="file_manager" value="net.didion.jwnl.dictionary.file_manager.FileManagerImpl">
-      <param name="file_type" value="net.didion.jwnl.princeton.file.PrincetonRandomAccessDictionaryFile"/>
-      <param name="dictionary_path" value="PATH_TO_WORDNET"/>
-    </param>
-  </dictionary>
-  <resource class="PrincetonResource"/>
-</jwnl_properties>
