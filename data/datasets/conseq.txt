@@ -1,0 +1,822 @@
+Health insurance mandates	Insurance mandates violate the rights of employers.	CON
+Health insurance mandates	Mandatory insurance violates right to engage in contracts	CON
+Health insurance mandates	Mandate deters uninsured from going to hospital, receiving penalty	CON
+More troops to Afghanistan under Obama	More troops in Afg will inflame broader Muslim anger, terrorism	CON
+More troops to Afghanistan under Obama	More troops in Afghanistan perpetuates corrupt Afghan government	CON
+More troops to Afghanistan under Obama	The military industrial complex profits from escalation in Afg.	CON
+More troops to Afghanistan under Obama	W/o more troops, Afgh will become terrorist haven	PRO
+More troops to Afghanistan under Obama	Defeat in Afghanistan would embolden terrorists globally	PRO
+Health insurance cooperatives	Co-ops lack scale to negotiate prices of drugs, services	CON
+Health insurance cooperatives	Advocates of co-ops are really aiming for socialized medicine	CON
+Health insurance cooperatives	Co-ops compete with insurers like public option could	PRO
+Public health insurance option	Public insurance would stifle medical innovation and advancement	CON
+Public health insurance option	Public insurance inefficiencies can be hidden by taxpayer-funding	CON
+Public health insurance option	Public insurance option will increase taxes, drag-down economy	CON
+Public health insurance option	Public insurance will give doctors/hospitals millions of new patients.	PRO
+Public health insurance option	Public insurance delivers same quality insurance at a lower price	PRO
+Mandatory calorie counts on menus	Mandatory calorie counts infringe restaurants' freedom of speech	CON
+Mandatory calorie counts on menus	Calorie counts are ineffective at compelling healthier choices	CON
+Mandatory calorie counts on menus	Calorie counts on menus will turn-off customers.	CON
+Mandatory calorie counts on menus	Calorie counts eliminate ability of restaurants to be spontaneous.	CON
+Mandatory calorie counts on menus	Calories on menus empower consumers to make healthier choices	PRO
+Mandatory calorie counts on menus	Calorie counts will be ignored by some, but help others	PRO
+Manned mission to Mars	Weight of supplies for long Mars trip is impractical.	CON
+Manned mission to Mars	A manned mission to Mars would unify humankind	PRO
+Manned mission to Mars	Mars mission would inspire kids to become scientists	PRO
+Colonization of the Moon	Moon's gravity is too low for human health	CON
+Colonization of the Moon	Temperature extremes make colonizing the Moon very challenging.	CON
+Colonization of the Moon	Territorial claims on the Moon will become a source of conflict.	CON
+Colonization of the Moon	Moonbase would be ideal staging area for space exploration	PRO
+Colonization of the Moon	Moonbase advances knowledge of human viability on alien planets.	PRO
+Colonization of the Moon	Moonbase will help answer remaining scientific questions	PRO
+Mandatory labeling of genetically modified foods	Arbitrary labeling rules do not offer any real choice	CON
+Mandatory labeling of genetically modified foods	Labeling of genetically modified foods increases food prices.	CON
+Mandatory labeling of genetically modified foods	Different GM labeling standards across countries is a problem	CON
+Mandatory labeling of genetically modified foods	Labeling respects opinion of those not wanting to consume GM foods.	PRO
+Mandatory labeling of genetically modified foods	It is good for labeling to turn consumers off to GM foods.	PRO
+Legality of coca production and consumption	Coca chewing is bad for human health.	CON
+Legality of coca production and consumption	Allowing coca undermines successful eradication efforts.	CON
+Filibuster	Filibuster wrongly burdens majority party	CON
+Filibuster	During turmoil, filibusters impede government progress	CON
+Filibuster	The filibuster helps protect the will of the minority	PRO
+Criminalization of Holocaust denial	Outlawing Holocaust denial risks revisionists being called deniers	CON
+Criminalization of Holocaust denial	Holocaust denial psychologically harms Holocaust survivors	PRO
+Criminalization of Holocaust denial	Holocaust denial is inherently descriminatory and damaging	PRO
+Criminalization of Holocaust denial	Holocaust denial opens doors to harmful, non-factual views	PRO
+Needle exchanges	HIV transmission has increased despite needle exchanges	CON
+Needle exchanges	Needle exchanges don't save lives; cause drug-related deaths	CON
+Needle exchanges	Drug dealers sell drugs near needle exchanges	CON
+Needle exchanges	Needle exchanged increase discarded needles on streets	CON
+Needle exchanges	Needle exchanges generally degrade community cleanliness.	CON
+Needle exchanges	Needle exchanges rightly place harm reduction over all else	PRO
+Needle exchanges	Needle exchanges decrease infections and therefore costs	PRO
+Election of judges	Elected justices are corruptly influenced by campaign funders	CON
+Election of judges	Lawyers may fund judge campaigns to influence trials	CON
+Election of judges	Impossible to avoid big-money influence in judicial elections	CON
+Election of judges	Elections make judges more democratically accountable	PRO
+Election of judges	Elected judges are more in tune with public opinion	PRO
+Comprehensive Nuclear-Test-Ban Treaty	Test ban ties hands of good states, while rogue states ignore it	CON
+Comprehensive Nuclear-Test-Ban Treaty	Fear will cause nuclear proliferation, despite testing ban.	CON
+Comprehensive Nuclear-Test-Ban Treaty	Warheads and deterrence cannot be maintained without testing	CON
+Comprehensive Nuclear-Test-Ban Treaty	Test ban halts R&amp;D and development of nuclear weapons	PRO
+Comprehensive Nuclear-Test-Ban Treaty	Test ban would help combat growing nuclear threats	PRO
+Comprehensive Nuclear-Test-Ban Treaty	Improved monitoring from test ban provides important information	PRO
+Comprehensive Nuclear-Test-Ban Treaty	Nuclear test ban reduces risks of nuclear fallout	PRO
+Israeli settlements	Israeli settlements impede creation of Palestinian state	CON
+Israeli settlements	Settlements create separate/unequal laws for Israelis/Palestinians	CON
+Israeli settlements	Settlements undercut Palestinian rights to land	CON
+Israeli settlements	Israeli settlements do not impede creation of Palestine	PRO
+Two-state solution to Israeli-Palestinian conflict	A two-state solution makes Israel too narrow, vulnerable.	CON
+Two-state solution to Israeli-Palestinian conflict	Israel loses strategic West Bank mountains in two-state solution	CON
+Two-state solution to Israeli-Palestinian conflict	Two-state solution offers peace, the most important factor	PRO
+Two-state solution to Israeli-Palestinian conflict	Two-state solution offers adequate territory to Palestinians	PRO
+Two-state solution to Israeli-Palestinian conflict	Two-state solution and peace is critical to regional stability.	PRO
+Merit pay for teachers	Merit pay focuses teachers on measures over their passion	CON
+Merit pay for teachers	Merit pay punishes teachers assigned to bad students	CON
+Merit pay for teachers	Past examples of merit pay for teachers have failed	CON
+Merit pay for teachers	Merit pay gives teachers an incentive to work harder	PRO
+Merit pay for teachers	Merit-pay helps attract teachers where there are shortages	PRO
+Merit pay for teachers	Merit pay works in markets, can work for teachers	PRO
+Enhanced interrogation techniques	Enhanced techniques hamper work with allies against terrorism.	CON
+Is a nuclear Iran intolerable?	Military strikes on Iran would invite painful retaliation	CON
+Earmarks	Earmarks are often unrelated to legislation; holds up bill.	CON
+Earmarks	Earmarks create unsustainable institutional dependencies	CON
+Free public transportation	Car sales would drop significantly.	CON
+Free public transportation	There are many people who would also lose their jobs.	CON
+Free public transportation	Some public transport cities are already terrible; this would just increase the strain.	CON
+Free public transportation	The government would be forced to improve public transport.	PRO
+Free public transportation	A lot of people would already be using it if it didn't cost so much.	PRO
+Education vouchers	Vouchers damage public schools that can't compete with private schools.	CON
+Education vouchers	Profit motive of private schools is costly, undermining vouchers.	CON
+Education vouchers	Vouchers drain talent from public schools, undermining competitiveness.	CON
+Education vouchers	Vouchers improve choice/access despite private school right to deny	PRO
+Education vouchers	Education vouchers improve minority academic achievement.	PRO
+Education vouchers	Vouchers promote innovation and specialisation.	PRO
+No Child Left Behind Act	NCLB sets overly restrictive qualifications for teaching.	CON
+No Child Left Behind Act	No Child Left Behind subjects disabled to same test standards.	CON
+No Child Left Behind Act	No Child Left Behind effectively penalizes diversity in schools.	CON
+No Child Left Behind Act	No Child Left Behind offers valuable measure of student progress	PRO
+No Child Left Behind Act	NCLB has succeeded in improving test scores	PRO
+No Child Left Behind Act	Standardized tests ensures students learn essential information.	PRO
+No Child Left Behind Act	No Child Left Behind encourages parents to engage more actively	PRO
+No Child Left Behind Act	Statewide standards are an improvement over major local failures:	PRO
+2009 US economic stimulus	Stimulus increases debt, inflation, interest rates, harms economy	CON
+2009 US economic stimulus	2009 US stimulus won't generate consumer confidence	CON
+2009 US economic stimulus	Funding government projects will stimulate jobs/economy	PRO
+2009 US economic stimulus	Majority of US stimulus is immediate to fight recession now.	PRO
+Legalization of adult incest	Incest undermines the family and its nurturing relationships	CON
+Legalization of adult incest	Sending law-abiding incestuous couples to prison looks bad.	PRO
+Legalization of adult incest	Offspring of first-cousins have a low chance of defects	PRO
+Charter schools	Schools are not like businesses; can't just let bad ones die	CON
+Charter schools	Charter schools can destroy valuable neighborhood schools	CON
+Charter schools	Charter schools do not achieve economies of scale	CON
+Charter schools	Charter schools proliferated too quickly to monitor performance	CON
+Charter schools	Charter schools promote teacher independence and character	PRO
+Charter schools	Charter schools, free from regulation, are innovative	PRO
+Charter schools	Charter schools cut through red tape, quickly opening after Katrina	PRO
+Crime cameras	Crime cameras may help prosecutions, but don't reduce crime.	CON
+Crime cameras	Crime cameras lead to slippery slope of Big Brother surveillance.	CON
+Crime cameras	Crime cameras help restore a public sense of safety	PRO
+Guantanamo Bay detention center	Guantanamo violates habeas corpus, obstructs proof of innocence	CON
+Guantanamo Bay detention center	Conducting detainee trials in the US would endanger US citizens	CON
+Guantanamo Bay detention center	Guantanamo bay's existence fuels terrorist causes	CON
+Guantanamo Bay detention center	Conditions at Guantanamo Bay are harmful to detainee mental health	CON
+Guantanamo Bay detention center	Guantanamo Bay helps disrupt terrorist groups.	PRO
+Israeli military assault in Gaza	Israeli attacks embolden extremists on both sides in cycle of violence	CON
+Israeli military assault in Gaza	Israel's use of white phosphorous in Gaza was a humanitarian crime.	CON
+Israeli military assault in Gaza	Israel strikes were intended to further dispirit Palestinians	CON
+Israeli military assault in Gaza	Israel air strikes in November, 2008 unraveled the ceasefire	CON
+Israeli military assault in Gaza	Defeating Hamas is key to long-term Israeli/Palestinian solution	PRO
+Israeli military assault in Gaza	Israeli attacks may force Hamas to accept a more durable ceasefire	PRO
+Israeli military assault in Gaza	Israeli precision strikes sought to minimize civilian deaths	PRO
+Republika Srpska secession from Bosnia and Herzegovina	Serb Republic secession could spark regional war	CON
+Republika Srpska secession from Bosnia and Herzegovina	Russian backing of Republika Srpska ind. could spark global conflict	CON
+Republika Srpska secession from Bosnia and Herzegovina	Republika Srpska secession would incite Bosnian Croat secession	CON
+International Criminal Court	ICC puts national servicemen abroad at risk of prosecution	CON
+International Criminal Court	ICC causes tyrants to cling to power to avoid prosecution	CON
+International Criminal Court	The ICC risks heavy politicization of prosecution	CON
+International Criminal Court	ICC and rule of law help deter war crimes and genocide	PRO
+International Criminal Court	ICC advances universal rights and international law	PRO
+Rebuilding New Orleans	Global warming &amp; stronger hurricanes will destroy new New Orleans	CON
+Rebuilding New Orleans	Louisiana politicians cannot be trusted with federal funding	CON
+Rebuilding New Orleans	Rebuilding New Orleans will not return it to economic vibrancy	CON
+Rebuilding New Orleans	Rebuilding New Orleans is key to improving US race relations	PRO
+Bailout of US automakers	Automaker bailout unfairly disadvantages competition	CON
+Bailout of US automakers	Low-interest loans to automakers will not solve their problems.	CON
+Bailout of US automakers	Bailout will preserve place of autos in American identity	PRO
+Bailout of US automakers	Bailout allows US autos to produce needed green cars	PRO
+Bailout of US automakers	Saving economy outweighs moral hazard of auto bailout	PRO
+US and NATO intervention in Libya	Libya war expands imperial presidency farther than ever	CON
+Infant male circumcision	Circumcision creates risk of infections in infants	CON
+Infant male circumcision	Pain of circumcision is traumatizing for infants	CON
+Infant male circumcision	Circumcision helps prevent phimosis	PRO
+Infant male circumcision	Circumcision helps protect against chlamydia	PRO
+Infant male circumcision	Circumcision reduces risk of urinary tract infections	PRO
+Fairness Doctrine	Fairness Doctrine would destroy viability of conservative radio	CON
+Fairness Doctrine	Fairness Doctrine would open costly political battle	CON
+Fairness Doctrine	Fairness Doctrine helps advance free speech values	PRO
+Fairness Doctrine	Free speech without Fairness Doctrine can harm policy-making	PRO
+Fairness Doctrine	Fairness Doctrine would counter conservative domination of radio	PRO
+Fairness Doctrine	The Fairness Doctrine improves the public discourse	PRO
+Employee Free Choice Act	Employee Free Choice Act eliminates workers' right to secret ballots	CON
+Employee Free Choice Act	Unions are dwindling because few workers care to join	CON
+Employee Free Choice Act	Employee Free Choice Act would not solve alleged employer abuses	CON
+Employee Free Choice Act	EFCA is biased toward punishing employers and not unions	CON
+Employee Free Choice Act	EFCA strengthens workers' ability and right to unionize	PRO
+Employee Free Choice Act	Employee Free Choice Act protects unionizing workers from intimidation	PRO
+Pickens US energy plan	It is relatively cheap to convert existing cars to natural gas.	PRO
+Wave power	Wave power systems can attract predatory fish, damaging ecosystems	CON
+Wave power	Oceans corrode wave power systems, which is costly	CON
+Wave power	Wave power diminishes wave quality for surfers	CON
+Wave power	Wave power provides clean renewable power.	PRO
+Wave power	Wave power will have a smaller impact than fossil fuel plants	PRO
+Wave power	Waves pack substantial energy; few wave generators are required	PRO
+Wave power	Under-water wave power systems avoid aesthetic concerns.	PRO
+Vehicle fuel economy standards	Fuel economy standards do not directly reduce emissions	CON
+Vehicle fuel economy standards	Fuel economy standards increase car manufacturing costs and prices	CON
+Vehicle fuel economy standards	Fuel standards impair individuals needing high-powered trucks	CON
+Vehicle fuel economy standards	Vehicle fuel economy standards can increase vehicle deaths	CON
+Vehicle fuel economy standards	Fuel economy standards reduce emissions, fight global warming	PRO
+Vehicle fuel economy standards	CAFE standards have strong history of reducing US emissions	PRO
+Vehicle fuel economy standards	Fuel economy standards do not increase the cost of making cars	PRO
+Vehicle fuel economy standards	Fuel economy standards foster innovation and jobs	PRO
+Algae biofuel	Algae pools can become contaminated and less efficient	CON
+Algae biofuel	Industrial algae biofuel requires too many nutrients	CON
+Algae biofuel	Algae biofuel is carbon neutral; only emits C02 that it absorbs.	PRO
+Algae biofuel	Algae can be produced locally for food and fuel	PRO
+Kyoto Protocol	Fighting climate change means cutting emissions with Kyoto Protocol	PRO
+Year-round school	Many school buildings are not built for summer use.	CON
+Year-round school	Changing to year-round schooling has significant costs.	CON
+Year-round school	Areas that depend heavily on summer tourism will suffer economically.	CON
+Year-round school	Studies find year-round schools improve student performance	PRO
+$700 billion US economic bailout	$700b plan and intervention in markets worsens problems	CON
+$700 billion US economic bailout	$700b plan would bail-out greedy capitalists that created crisis	CON
+$700 billion US economic bailout	$700b bailout saves Wallstreet by slamming taxpayers	CON
+$700 billion US economic bailout	Not passing $700b bailout risks sending economy into major recession	PRO
+$700 billion US economic bailout	$700b bailout is important to stabilize volatile global markets	PRO
+$700 billion US economic bailout	$700b plan may result in few losses or actually profit taxpayers	PRO
+Reforestation as a solution to global warming	Reforestation can result in release of greenhouse gas Methane	CON
+Reforestation as a solution to global warming	Increasing droughts impairs carbon sequestration by trees	CON
+Reforestation as a solution to global warming	Reforestation can increase Earth's Albedo and global warming	CON
+Reforestation as a solution to global warming	Insufficient nitrogen levels will limit plant growth	CON
+Reforestation as a solution to global warming	Reforestation can immediately reduce atmospheric greenhouse gases	PRO
+Reforestation as a solution to global warming	Reforestation, while not a silver bullet, can help solve global warming	PRO
+Reforestation as a solution to global warming	Aerial reforestation cuts costs of reforestation	PRO
+Reforestation as a solution to global warming	Reforestation creates financial interest in sustaining forests	PRO
+Geoengineering, iron fertilization of algae blooms	Global warming grows phytoplankton; growing more is reckless	CON
+Geoengineering, iron fertilization of algae blooms	Sinking organic blooms can render the deep sea anoxic.	CON
+Geoengineering, iron fertilization of algae blooms	A global iron fertilization plan would cost only around $20 billion.	PRO
+Geoengineering, iron fertilization of algae blooms	Global warming kills algae, worsens warming; iron fertilization helps	PRO
+Geoengineering, solar shading	Geoengineering concepts dampen public will to cut emissions	CON
+Geoengineering, solar shading	Solar shading reduces sunlight energy available to solar panels	CON
+Geoengineering, solar shading	Solar shading would reduce sunlight received by plants	CON
+Geoengineering, solar shading	Solar shading may warm the tropopause and lower stratosphere.	CON
+Geoengineering, solar shading	Solar shading can effectively and rapidly reverse global warming	PRO
+Wind energy	The installation of windmills can be relatively expensive.	CON
+Wind energy	Wind energy production is inconsistent relative to demand	CON
+Wind energy	Litigation to clear land (scenery) for windmills can be costly.	CON
+Wind energy	Wind energy surges can strain electricity grids	CON
+Wind energy	Heavy land-use of wind farms can jeopardize forests/ecosystems.	CON
+Wind energy	Negative effects of wind energy on birds can be minimized	PRO
+Wind energy	Carbon emission greater threat to birds than wind energy	PRO
+Wind energy	Wind fuel does not require transporting to the generator.	PRO
+Carbon emissions trading	Companies will pollute excessively before starting carbon trading.	CON
+Carbon emissions trading	Cap-and-trade schemes cause job loss	CON
+Carbon emissions trading	Cap-and-trade systems are susceptible to distortion by lobby groups	CON
+Carbon emissions trading	Carbon trading wrongly turns atmosphere into tradeable property	CON
+Carbon emissions trading	Cap-and-trade systems ensure emissions reductions to the set cap	PRO
+Carbon emissions trading	Carbon trading incentivizes companies to cut emissions	PRO
+Carbon emissions trading	Emissions trading encourages investments in best technologies	PRO
+Natural gas vehicles	Natural gas leaks are a fire and explosion risk	CON
+Natural gas vehicles	Odorless natural gas can escape detection risking fire/explosion.	CON
+Natural gas vehicles	Natural gas burns more cleanly than gasoline in general	PRO
+Natural gas vehicles	Natural gas is less flammable and explosive than other fuels	PRO
+Random sobriety tests for drivers	Random sobriety tests amount to unreasonable searches	CON
+Random sobriety tests for drivers	Random sobriety stops set-up unjust detection of other crimes	CON
+Random sobriety tests for drivers	Random breath tests create slippery slope to expanding police powers	CON
+Random sobriety tests for drivers	Police will use breath tests as excuse for unreasonable searches	CON
+Random sobriety tests for drivers	Random breath testing doesn't necessarily lower drunk driving	CON
+Hybrid vehicles	Hybrid cars are too mild a solution to global warming	CON
+Hybrid vehicles	Hybrids are more complicated, which has has costs	CON
+Hybrid vehicles	Electric vehicles combat global warming more aggressively than hybrids.	CON
+Hybrid vehicles	Hybrids significantly reduce emissions, fight global warming	PRO
+Hybrid vehicles	Hybrids increase efficiency by shutting engines down while idling.	PRO
+Hybrid vehicles	Higher gasoline prices favor fuel-efficient hybrids	PRO
+Hybrid vehicles	Hybrid vehicles reduce noise pollution	PRO
+Hydrogen vehicles	Too much energy is required in producing hydrogen fuel	CON
+Hydrogen vehicles	Hydrogen cars will help end foreign oil dependencies	PRO
+Hydrogen vehicles	Hydrogen can decrease tensions over oil and promote peace	PRO
+Electric vehicles	It takes too long to recharge electric vehicles.	CON
+Electric vehicles	Not safe to let citizens do electric car quick-charging	CON
+Electric vehicles	Electric vehicles would place great strain on electric grids.	CON
+Electric vehicles	Electric cars will get cleaner with more renewable sources	PRO
+Tidal energy	Tidal turbines can kill marine wildlife.	CON
+Tidal energy	Tidal energy disrupts marine ecosystems like a dam.	CON
+Tidal energy	Tidal energy can lead to prolonged and undesirable winter icing.	CON
+Tidal energy	Anchors of tidal energy systems can damage ecosystems	CON
+Tidal energy	Repairing tidal energy is difficult and expensive.	CON
+Tidal energy	Tidal energy burns no fossil fuels and releases no emissions.	PRO
+Tidal energy	Potential energy-production of tidal power is immense	PRO
+Natural gas	Natural gas drilling leaves a large environmental footprint	CON
+Natural gas	Natural gas can be harmful and even poisonous to ingest	CON
+Natural gas	NGV's may reduce emissions, but still contribute to global warming	CON
+Natural gas	Natural gas greenhouse emissions outweigh its utility at home.	CON
+Natural gas	Natural gas vehicles reduce emissions, fight global warming	PRO
+Hydroelectric dams	Dams eliminate forests that absorb CO2 from the atmosphere.	CON
+Hydroelectric dams	The world's rivers are covered with dams; room for expansion is limited.	CON
+Hydroelectric dams	Dams can destroy marine fisheries	CON
+Hydroelectric dams	Dams can burst at great cost to human life.	CON
+Hydroelectric dams	Many aquatic species have no problem adapting to impounded waters.	PRO
+Hydroelectric dams	Dams are economically viable and often highly profitable.	PRO
+Hydroelectric dams	Dams last over a hundred years; good return on investment	PRO
+Solar energy	Solar panels are hard to move when a person moves homes.	CON
+Solar energy	Solar panels contain cadmium, which is environmentally hazardous.	CON
+Solar energy	Solar energy does not damage air quality.	PRO
+Solar energy	Decentralized solar power does not take up much land.	PRO
+Solar energy	The recovery/payback period can be very short.	PRO
+Obama, meeting with hostile foreign leaders without preconditions	Unconditional meetings wrongly legitimize hostile leaders	CON
+Obama, meeting with hostile foreign leaders without preconditions	Talking with all Muslim leaders shows Muslims US is listening	PRO
+EU constitution reform treaty (Lisbon Treaty)	Lisbon Treaty will increase taxes for many EU citizens	CON
+EU constitution reform treaty (Lisbon Treaty)	Lisbon Treaty limits national economic sovereignty	CON
+EU constitution reform treaty (Lisbon Treaty)	Lisbon better reinforces EU sustainable development	PRO
+EU constitution reform treaty (Lisbon Treaty)	Opponents of the Lisbon Treaty often spread misinformation	PRO
+EU constitution reform treaty (Lisbon Treaty)	Lisbon strengthens EU diplomatic representation on the global stage	PRO
+Cluster bomb ban	Cluster bomb ban will put US soldiers at risk	CON
+Cluster bomb ban	Over-armament with cluster bombs is threat to peace	PRO
+Cluster bomb ban	Signing cluster bomb ban enhances international trust	PRO
+Cluster bomb ban	Dud cluster bombs effectively illegal landmines	PRO
+Should Hugo Chávez focus on the private sector more than social spending?	The increase in private sector in the economy causes instability.	CON
+Should Hugo Chávez focus on the private sector more than social spending?	Private farming will make the food problem even worse.	CON
+Should Hugo Chávez focus on the private sector more than social spending?	The lack of support to private sector makes Venezuela unattractive for investments.	PRO
+Should Hugo Chávez focus on the private sector more than social spending?	Private farming is more effective to deal with food problem.	PRO
+Democratic peace theory	Spreading democracy and peace is used as a pretext for war	CON
+Democratic peace theory	Democracy promotes harmonious and cooperative inter-state relations	PRO
+Bombing Hiroshima and Nagasaki	Conventional bombs would not kill so many people.	CON
+Bombing Hiroshima and Nagasaki	US flexibility on Japanese emperor could have produced surrender	CON
+NATO expansion	NATO expansion threatens and antagonizes Russia	CON
+NATO expansion	Russians are feeling betrayed by the expansion of NATO	CON
+NATO expansion	NATO expansion can only lead to the overstretching of the organisation and thus the undermining of stability for the entirety of Europe.	CON
+NATO expansion	The costs of NATO expansion are prohibitive at a time when the Western European members are scaling back their defence budgets and the reducing the size of their conventional forces.	CON
+NATO expansion	NATO expansion helps deter Russian expansionism.	PRO
+NATO expansion	NATO expansion will improve the operational capacity of NATO	PRO
+NATO expansion	Expansion will make more resources available to NATO	PRO
+European missile defense	A European missile defense system threatens and antagonizes Russia	CON
+European missile defense	US missile defense proposals in Europe violate Moscow Treaty	CON
+European missile defense	European missile defense would foster stability, not instability	PRO
+European Union Expansion	New entrants into EU suffer from increased tax burdens.	CON
+European Union Expansion	EU member states suffer from socialist economic environment	CON
+European Union Expansion	Richer EU states cannot afford to subsidize poorer states.	CON
+European Union Expansion	Drugs will flow more easily due to entry of new countries into the EU.	CON
+European Union Expansion	Admitting new members to the EU will increase transmission of diseases.	CON
+European Union Expansion	EU expansion will improve flow of knowledge and technology	PRO
+European Union Expansion	EU enlargement will improve foreign direct investment into eastern Europe.	PRO
+European Union Expansion	Integration is not prevented by EU expansion.	PRO
+Banning cell phones in cars	Cell phone ban in cars would simply be ignored	CON
+Banning cell phones in cars	Fumbling for ringing phone while driving is dangerous	PRO
+Child beauty pageants	Child beauty contests amount to child abuse.	CON
+Child beauty pageants	Parental ambitions can make kid queens mentally unwell.	CON
+Child beauty pageants	Beauty pageants are not good for a child's confidence.	CON
+Child beauty pageants	Beauty contests can boost a child's self-esteem.	PRO
+Child beauty pageants	Pageants teach kids to follow rules and play fair.	PRO
+Death penalty	Capital punishment wastes time and energy and burdens courts	CON
+Death penalty	Individuals are executed on murder charges whom deserved manslaughter	CON
+Death penalty	Capital punishment best prepares an evil soul for the after life	PRO
+Death penalty	Capital punishment has a deterrent effect on criminal activities	PRO
+Death penalty	The death penalty helps protect inmates and prison guards	PRO
+Hunting for sport	Hunting is dangerous, injuring and killing many humans.	CON
+Hunting for sport	Hunting is a good way of controlling widlife	PRO
+Hunting for sport	Proceeds of hunting industry go to wildlife sustainability	PRO
+Prisoners right to vote	Prisoner voting cheapens votes of citizens	CON
+Prisoners right to vote	Prisoner voting would demean the entire electoral system.	CON
+Prisoners right to vote	Prisoner voting undermines punishment and so rehabilitation.	CON
+Prisoners right to vote	Criminals, dangerous to society, are dangerous with vote	CON
+Prisoners right to vote	Rehabilitation is main goal (not punishment); voting helps	PRO
+Lowering US drinking age from 21 to 18	21 drinking-age general lowers under-age drinking	CON
+Lowering US drinking age from 21 to 18	Safer roads with 21 drinking laws outweighs all trade-offs	CON
+Lowering US drinking age from 21 to 18	Lowering drinking age will undermine parental oversight	CON
+Lowering US drinking age from 21 to 18	18-and-over law enables teaching of responsible drinking	PRO
+Lowering US drinking age from 21 to 18	Introducing children to alcohol teaches responsible use	PRO
+Lowering US drinking age from 21 to 18	Hang-overs teach responsibile drinking; laws unecessary	PRO
+Ban on laser pointers	Laser pointers have the capability to bring down aircraft and cause major accidents	PRO
+Gay adoption	Children do better with mother and father role models	CON
+Gay adoption	Children adopted by gays are subjected to homophobia/prejudices	CON
+Funding for space exploration	Space exploration is inspiring and pushes humans to advance	PRO
+Funding for space exploration	Public funding is necessary to achieve real results in space.	PRO
+Funding for space exploration	Humans could benefit from natural resources of other planets	PRO
+Funding for space exploration	Multinational space programs are good for international diplomacy.	PRO
+Catholic Church contraception policy	Undoing ban on condoms would prevent schisms in Church.	CON
+Catholic Church contraception policy	Removing Church objections to condoms would increase attendance at Church.	CON
+Catholic Church contraception policy	While not 100%-effective, condoms reduce risk of HIV-transmission	CON
+Catholic Church contraception policy	If people followed Christian principles; they would not contract HIV/AIDS.	PRO
+Catholic Church contraception policy	Contraception use leads to the degradation of women and their bodies	PRO
+Turkey EU membership	Admitting Turkey undermines European values.	CON
+Turkey EU membership	Turkish membership may cause a backlash among EU publics.	CON
+Turkey EU membership	Admitting Turkey leads to a slippery slope of non-European admissions	CON
+Turkey EU membership	EU membership would help strengthen democracy in Turkey	PRO
+Turkey EU membership	EU membership for Turkey would help liberalize the Middle East	PRO
+Turkey EU membership	Turkey's EU membership would help the fight against terrorism	PRO
+Ban on human reproductive cloning	Human clones will not reduce human biological diversity	CON
+Ban on human reproductive cloning	Reproductive cloning would entail dehumanizing experimentation	PRO
+Ban on human reproductive cloning	Cloning will lead to eugenics, or the artificial manipulation and control of the characteristics of people.	PRO
+Trans fat ban	Alternatives to trans fats aren't much healthier.	CON
+Trans fat ban	Trans fats extend shelf life of foods.	CON
+Trans fat ban	Trans fat ban will hurt small restaurants most.	CON
+Trans fat ban	Banning trans fats means saving thousands of lives	PRO
+Trans fat ban	Trans fats can be replaced w/o changing taste/price.	PRO
+Trans fat ban	Replacement fats will get cheaper with time.	PRO
+Banning Muslim hijab	Many Muslim women view the veil as a means to protect their modesty and privacy.	CON
+Banning Muslim hijab	The Muslim veil liberates women from sexual attention.	CON
+Banning Muslim hijab	Muslim head-coverings help keep women safe.	CON
+Banning Muslim hijab	Banning Muslim head scarves will not cause fundamentalist backlashes	PRO
+Banning Muslim hijab	Allowing head scarves would foster a greater clash of civilizations	PRO
+Banning Muslim hijab	Veil-wearing can make it very hard to identify individuals.	PRO
+Assassination of a Dictator	Assassinations breed destabilizing counter-assassination attempts	CON
+Assassination of a Dictator	Assassinations erode norms against assassination; jeopardizes leaders.	CON
+Assassination of a Dictator	Measures can reduce risk of collateral damage from assassinations	PRO
+Assassination of a Dictator	Assassinations protect publics from terrorism; even while it's hard to measure	PRO
+Single-payer universal health care	Universal health care is not free; people pay with their taxes.	CON
+Single-payer universal health care	US health care costs more because Americans pay to avoid waiting.	CON
+Single-payer universal health care	Universal health care creates dependencies on government	CON
+Single-payer universal health care	Universal health care lowers long-term health costs	PRO
+Single-payer universal health care	Universal health care systems incentivize improving patient health.	PRO
+Single-payer universal health care	Universal health care decreases the likelihood of health related problems.	PRO
+Abortion	Abortions encourage infanticide	CON
+Abortion	Abortions are emotionally and psychologically unsafe.	CON
+Abortion	If a fetus was defined as a person, the legal shifts would be too dramatic	PRO
+Abortion	Legal abortion protects women with serious illnesses that are vulnerable.	PRO
+Vegetarianism	Offering rights to animals based on evolution is a slippery slope.	CON
+Vegetarianism	Eating meat is bad for both animals and for humans; simple ethics	PRO
+Libertarianism	Free market economics fosters capitalist authoritarianism; undermines rights	CON
+Libertarianism	Libertarianism does not allow for essential public services (i.e. roads)	CON
+Libertarianism	People need government to prevent them from making mistakes.	CON
+Libertarianism	Libertarians would decriminalize many crimes, so reduce crime.	PRO
+Animal testing	Animals endure tremendous stress from being locked up.	CON
+Animal testing	Animal testing has significantly improved human welfare	PRO
+Assisted suicide	Euthanasia would not cut health care costs by very much	CON
+Assisted suicide	Assisted suicide makes everyone think they can do suicide on their own.	CON
+Assisted suicide	Right to die allows opponents to not participate.	PRO
+Assisted suicide	Most people that believe euthanasia is wrong never sat by a bed side.	PRO
+Assisted suicide	Third party euthanasia regulators can ensure against abuse (family, doctor...)	PRO
+Polygamy	Polygamy undermines the traditional institution of marriage.	CON
+Polygamy	Polygamy leaves some men with no women to marry; socially destabilizing	CON
+Polygamy	Polygamy is traumatizing and depressing for wives	CON
+Polygamy	Recognizing polygamy would cause a host of legal problems.	CON
+Polygamy	Polygamy reduces the impulse to adultery and resulting divorces	PRO
+Polygamy	Polygamous families are more dynamic and nurturing of diverse interests	PRO
+Polygamy	Polygamy provides wives with a sisterhood of life-long friends	PRO
+Tibet independence	The right to self-determination must be offered sparingly to avoid international instability.	CON
+Withdrawing from Iraq	An early US exit might cause Iraqi troops to defect to the insurgency	CON
+Withdrawing from Iraq	An early withdrawal from Iraq would embolden terrorists	CON
+Withdrawing from Iraq	Prolonging the Iraq War will permanently damaged the US military	PRO
+Withdrawing from Iraq	Torturous and brutal tactics in Iraq have only worsened US moral credibility.	PRO
+Withdrawing from Iraq	Mending relations with countries that opposed the war would make it easier to fight the war on terror.	PRO
+Kangaroo culling in Australia	Culling Kangaroo tarnishes the image of Australia around the world.	CON
+Kangaroo culling in Australia	Kangaroo destruction of habitats is causing soil erosion that damages crops.	PRO
+Kangaroo culling in Australia	Kangaroos are the cause of costly car accidents	PRO
+Veal	Loose housing for calves often subjects them to bullying and apprehension.	CON
+Veal	Calves are fed inhumane milk diets to keep them anemic and their meat pale	CON
+Veal	Veal farming is a good alternative to the slaughtering of unwanted calves	PRO
+DC handgun ban	A handgun ban deprives citizens of the most commonly used weapon for self defense	CON
+DC handgun ban	Worldwide the ownership of handguns has been correlated with higher homicide rates	PRO
+Muhammad cartoons controversy	The Jylands-Posten cartoons created an international impression of Denmark as Xenophobic.	CON
+Muhammad cartoons controversy	Images of Muhammad are forbidden because they lead to idolatry.	CON
+Muhammad cartoons controversy	Publishing images of Muhammad helps combat self-censorship.	PRO
+Osama Bin Laden Sea Burial	Giving Bin Laden religious respects degrades Islam.	CON
+Michigan and Florida delegates in 2008 US elections	Allotting Florida and Michigan delegates according to national will promotes a tyranny of the majority.	CON
+Michigan and Florida delegates in 2008 US elections	Seating Michigan and Florida delegates in 2008 gives a voice to voters there	PRO
+Michigan and Florida delegates in 2008 US elections	Splitting the delegates would give some voice to Michigan and Florida voters.	PRO
+Dollarization	Dollarization limits monetary policy flexibility	CON
+Dollarization	Dollarization undermines the sovereign symbolism of a national currency	CON
+Dollarization	Dollarization helps encourage foreign investment	PRO
+Dollarization	Dollarization can reduce the risk of inflation:	PRO
+Ending US sanctions on Cuba	Changing legally etched Cuban human rights violations requires sanctions	CON
+Ending US sanctions on Cuba	Lifting sanctions against Cuba will hardly benefit US businesses.	CON
+Ending US sanctions on Cuba	Sanctions hurt Cuban-Americans with relatives in Cuba.	PRO
+Ending US sanctions on Cuba	Sanctions against Cuba violated laws on the freedom of navigation.	PRO
+Free trade	Free trade and markets harm the environment	CON
+Free trade	Trade liberalization damages the growth of poor countries	CON
+Free trade	The current regional FTAs undermine poor countries' bargaining power	CON
+Free trade	Free trade sacrifices national unity to economics	CON
+Free trade	Free trade and investment risks rapid capital flight from developing countries.	CON
+Free trade	Free trade promotes peace and stability internationally	PRO
+Free trade	Free markets and trade benefit the environment	PRO
+Free trade	Free trade improves the economic growth of developing nations	PRO
+Superdelegates	Superdelegates often vote out of self-interest for likely winner	CON
+Superdelegates	Candidate solicitations of superdelegates damage the political process	CON
+Superdelegates	Superdelegates provide greater mainstream party representation	PRO
+Superdelegates	Superdelegates provide unifying margin of victory in tight race	PRO
+Superdelegates	Superdelegates help increase the likelihood of a Democratic presidency	PRO
+Legalization of Marijuana	Marijuana use can lead to cancer	CON
+Legalization of Marijuana	Marijuana use impairs hormone production.	CON
+Legalization of Marijuana	Some train and plane tragedies were connected with marijuana use.	CON
+Legalization of Marijuana	Increased legal marijuana consumption will decrease economic productivity	CON
+Legalization of Marijuana	If marijuana is harmful, isn't this sufficient punishment for users	PRO
+Legalization of Marijuana	Children have been brainwashed on high costs of marijuana.	PRO
+Legalization of Marijuana	Legalizing marijuana will reduce profits of traffickers and gangs	PRO
+Prostitution	Individuals must cede some rights for safety, including right to prostitute.	CON
+Prostitution	Legalizing prostitution won't substantially reduce HIV/AIDS risks	CON
+Prostitution	By worsening HIV/AIDS, prostitution will devastate societies	CON
+Prostitution	Legalization will increase prostitution and subsequently worsen public health.	CON
+Abolition of nuclear weapons	Nuclear weapons may protect humans from threats from space.	CON
+Abolition of nuclear weapons	Nuclear abolition could not prevent covert nuclear programs	CON
+Abolition of nuclear weapons	Nuclear weapons tests are a global hazard	PRO
+Abolition of nuclear weapons	Nuclear weapons are a drain on resources	PRO
+Return of Israel to pre-1967 borders	Pre-1967 borders would be too insecure and dangerous	CON
+Return of Israel to pre-1967 borders	Pre-1967 borders will not satisfy Islamic terrorists	CON
+Return of Israel to pre-1967 borders	Arabs seek pre-1967 borders to weaken and dissolve Israel.	CON
+Return of Israel to pre-1967 borders	Coordinated Arab attack unlikely; pre-1967 borders fine.	PRO
+Return of Israel to pre-1967 borders	With pre-1967 borders, PLO would recognize Israel, end conflict	PRO
+Three Gorges Dam	The hydroelectric TGD should not be considered renewable due to social, environmental costs.	CON
+Three Gorges Dam	Floating garbage is piling up behind the TGD	CON
+Three Gorges Dam	Three Gorges Dam damages water quality	CON
+Three Gorges Dam	The Three Gorges Dam has submerged mines, resulting in pollution	CON
+Three Gorges Dam	The Three Gorges Dam is a cause of corruption.	CON
+Three Gorges Dam	The TGD helps limit the risk of floods in the region.	PRO
+Three Gorges Dam	Three Gorges Dam gives China added respect in the world.	PRO
+Three Gorges Dam	The TGD helps to alleviate drought.	PRO
+Primaries in US elections	Superdelegates are not bound to represent the electorate	CON
+Primaries in US elections	Early emphasis on Iowa and New Hampshire disenfranchises minority voters	CON
+Primaries in US elections	Primaries help reveal candidates to the public	PRO
+Hate crime laws	Hate crime laws violate religious free speech	CON
+Hate crime laws	Hate crime laws are likely to be abused by accusers	CON
+Hate crime laws	Hate crime laws tie the hands of judges	CON
+Hate crime laws	Hate crime laws force false categorizations of minority groups	CON
+Hate crime laws	Hate crime laws violate religious free speech	CON
+Hate crime laws	Hate crimes terrorize communities and so deserve greater punishment	PRO
+Hate crime laws	Hate crime enhancements will not overwhelm reporting systems	PRO
+Assault weapons ban in the United States	The 1994 assault weapons ban did not decrease crime	CON
+Assault weapons ban in the United States	Banning semi-automatic weapons would harm small businesses.	CON
+Assault weapons ban in the United States	The 1994 US assault weapons ban significantly decreased use	PRO
+Assault weapons ban in the United States	Assault weapons are used by drug cartels, kill thousands	PRO
+Kosovo independence	An independent Kosovo would have to pay impossible debts to Serbia	CON
+Kosovo independence	Many EU foreign ministers fear violence following Kosovo independence	CON
+Kosovo independence	Kosovo independence would encourage other separatist movements	CON
+Kosovo independence	Kosovo independence will not inspire other separatist movements	PRO
+Ecotourism	Ecotourism can damage habitats	CON
+Ecotourism	Ecotourism does not preserve but damages local cultures	CON
+Ecotourism	Third world governments often seize local control to expand ecotourism	CON
+Ecotourism	Ecotourism favors corporate interests over democratic processes	CON
+Ecotourism	Ecotourism cultivates a conservation ethic	PRO
+Ecotourism	Ecotourism generates funds for conservation	PRO
+Ecotourism	Ecotourism builds cultural awareness and respect.	PRO
+Ecotourism	Ecotourism economically benefits local people	PRO
+Ecotourism	Ecotourism is good for the human soul and social health.	PRO
+Corn ethanol	Ethanol energy is a net CO2 polluter	CON
+Corn ethanol	Producing corn for ethanol requires too much water	CON
+Corn ethanol	Corn ethanol is less energy efficient than regular gasoline:	CON
+Corn ethanol	Ethanol is a means to reducing foreign oil dependencies	PRO
+Corn ethanol	Making ethanol from corn does not deprive the needy of food	PRO
+Boycott of 2008 Olympics in China	China's 2008 Olympics will accelerate its civil society	CON
+Boycott of 2008 Olympics in China	A boycott of the 2008 Olympics would antagonize the Chinese people	CON
+Boycott of 2008 Olympics in China	Only boycotting the Olympics sufficiently protests China's abuses	PRO
+Fish farming ban	Fish farming is economically beneficial	CON
+Fish farming ban	Fish feel pain and should not be made to suffer	PRO
+Fish farming ban	Fish farming squanders resources	PRO
+Bush economic stimulus plan	Tax rebates encourage irresponsible consumer spending habits	CON
+Bush economic stimulus plan	Increasing food stamp benefits will not stimulate the economy	CON
+Bush economic stimulus plan	A poorly timed economic stimulus can do harm	CON
+Bush economic stimulus plan	Tax rebates to the lower-middle classes quickly stimulate consumption	PRO
+Bush economic stimulus plan	Tax rebates can be good for businesses in the service industry	PRO
+Bush economic stimulus plan	Millions of low-income Americans face undernutrition.	PRO
+Bush economic stimulus plan	The effect of the 2008 stimulus package will be immediate	PRO
+700 mile US Mexico border fence	A wall would force crossers to take more deadly routes	CON
+700 mile US Mexico border fence	A border fence would not be as effective as other measures	CON
+Waterboarding	Water-boarding is drowning, not simulated drowning	CON
+Waterboarding	Information obtained through waterboarding is unreliable	CON
+Waterboarding	Waterboarding justly brings a terrorist face-to-face with death	PRO
+Legalization of drugs	In the short term it might eliminate drug dealers on our streets but do any of us really think that whatever multinational corporation ends of cornering the drug market will have a problem trading with the existing cartels	CON
+Legalization of drugs	Drugs can have a beneficial mind-expanding capacity	PRO
+Legalization of drugs	The state can tax the sale of legalized drugs and use the revenue for treatment programs	PRO
+Drivers licenses for Illegal immigrants in the US	Driver's licenses for illegal immigrants undermines legal immigration	CON
+Drivers licenses for Illegal immigrants in the US	The costs of providing driver's licenses to millions of illegal immigrants would be very high.	CON
+Drivers licenses for Illegal immigrants in the US	Illegal immigrants in America should be integrated into society	PRO
+Drivers licenses for Illegal immigrants in the US	Driver's licenses for illegal immigrants is economically beneficial	PRO
+Drivers licenses for Illegal immigrants in the US	Denying illegal immigrants driver's licenses forces DMV employees to become immigration experts.	PRO
+Seattle deep-bore tunnel	Good chance Seattle tunnel will go over budget	CON
+Seattle deep-bore tunnel	Tunnel will increase traffic in pioneer square.	CON
+Seattle deep-bore tunnel	Deep-bore tunnel draws funds away from other infrastructure.	CON
+Seattle deep-bore tunnel	Seattle's deep-bore tunnel creates jobs	PRO
+Seattle deep-bore tunnel	Seattle tunnel less disruptive than other options	PRO
+High-speed rail	High-speed rail allows people to see/visit new places.	PRO
+High-speed rail	High speed rail is a great tourist attraction.	PRO
+High-speed rail	High-speed rail decreases travel-time between cities.	PRO
+High-speed rail	High-speed rail frees up existing rail for other purposes.	PRO
+High-speed rail	Unlike automobiles, rail fosters a sense of community.	PRO
+Mandatory military service	Conscripts never as good as professional soldiers	CON
+Mandatory military service	Mandatory service fosters militarism	CON
+Mandatory military service	Military service diverts young from university.	CON
+Mandatory military service	National service produces valuable character traits:	PRO
+Mandatory military service	National service teaches skills valuable in marketplace.	PRO
+Mandatory military service	National service promotes patriotism.	PRO
+Mandatory military service	Military placement exams would encourage school-work.	PRO
+No-fly zone over Libya	Libyan rebels can succeed without no-fly zone.	CON
+No-fly zone over Libya	No-fly zone could increase support for Gaddafi	CON
+No-fly zone over Libya	No fly zone would create expectation of help elsewhere.	CON
+No-fly zone over Libya	Past No-fly zones have led to further military intervention	CON
+No-fly zone over Libya	No fly zone in Libya prevents a massacre	PRO
+No-fly zone over Libya	Doing nothing is to be complicit with Gaddafi regime.	PRO
+Military recruiting in public schools	Military recruiting wrongly makes violence appear cool.	CON
+Military recruiting in public schools	Young people aren't stupid, understand risk of joining military.	PRO
+Military recruiting in public schools	Recruiters raise general awareness about military.	PRO
+Bullfighting	Bulls can't reason, but they can suffer; bullfighting wrong.	CON
+Bullfighting	Bullfighting is too dangerous to humans to justify	CON
+Bullfighting	Bulls are celebrated and honored in bullfighting.	PRO
+Bullfighting	Risks of bullfighting brings out courage and bravery.	PRO
+Was the War in Iraq worth it?	Deposing Saddam was not worth immense costs of war.	CON
+Was the War in Iraq worth it?	War in Iraq has helped terrorist recruitment	CON
+Was the War in Iraq worth it?	War not worth roughly 100,000 Iraqi civilians killed.	CON
+Was the War in Iraq worth it?	Congress would have voted against Iraq War knowing costs now.	CON
+Was the War in Iraq worth it?	War in Iraq kept Saddam from acquiring nuclear weapons.	PRO
+Was the War in Iraq worth it?	Victory better than letting terrorists win in Iraq.	PRO
+Was the War in Iraq worth it?	War has given Iraqis a young democracy to grow.	PRO
+Was the War in Iraq worth it?	Iraq's democratic government is working reasonably well	PRO
+Phasing out fossil fuel subsidies	Ending oil subsidies is good for air quality, human health.	PRO
+Phasing out fossil fuel subsidies	Ending oil subsidies levels playing field for clean energy	PRO
+Phasing out fossil fuel subsidies	Subsidies are just generally inefficient.	PRO
+Phasing out fossil fuel subsidies	Oil subsidies better spent on education, health care, etc.	PRO
+Castration of sex offenders	Castrating sex offenders less effective than psychotheraphy.	CON
+Castration of sex offenders	Castration exposes sex offenders to side effects	CON
+Castration of sex offenders	Castrating sex offenders gives false sense of security on rape.	CON
+Castration of sex offenders	Castration subdues libido and psychological factors in predation.	PRO
+Palestinian right of return	Right of return jeopardizes Israeli welfare, so invalid	CON
+Palestinian right of return	A right of return wrongly makes Israel responsible for refugees.	CON
+Compulsory voting	Forcing a vote is as bad for democracy as poor turnout.	CON
+Compulsory voting	Mandatory voting would reduce polarization.	PRO
+Compulsory voting	Mandatory voting would compel broader campaign messaging.	PRO
+Compulsory voting	Mandatory voting compels voters to better educate themselves.	PRO
+Puerto Rico statehood in America	Puerto Rico would burden US welfare system	CON
+Puerto Rico statehood in America	Puerto Rico statehood is not economical for US	CON
+Puerto Rico statehood in America	Independence jeopardizes Puerto Rican economic gains.	PRO
+DREAM Act	DREAM Act encourages bringing kids across for citizenship	CON
+DREAM Act	DREAM Act is bad for American employment.	CON
+DREAM Act	DREAM Act is very expensive.	CON
+DREAM Act	DREAM Act relies on shrinking US financial resources.	CON
+DREAM Act	DREAM Act offers citizenship to youth already Americans.	PRO
+DREAM Act	Republican opposition alienates Latino vote.	PRO
+Joint JD/MBA degree	JD as credential has poor return on investment.	CON
+Joint JD/MBA degree	JD/MBA unlikely to get you higher salary than JD or MBA alone.	CON
+Joint JD/MBA degree	Join JD/MBA actually dilutes education in one or the other.	CON
+Joint JD/MBA degree	Usually one shot at advanced degree; JD/MBA gets both done.	PRO
+Joint JD/MBA degree	JD/MBA offers entrepreneurial skills and credibility.	PRO
+New START Treaty	New START reduces US deterrence in world that is arming, not disarming	CON
+New START Treaty	New START Treaty gives more to Russia than US	CON
+New START Treaty	Signing New START saves US-Russia relations for Iranian problem.	PRO
+New START Treaty	Reducing US-Russian nuclear weapons makes for a safer world.	PRO
+New START Treaty	Russia will build-up nuclear arms without New START.	PRO
+Airport security profiling	Terrorists can easily beat profiling systems.	CON
+Airport security profiling	Terrorists could dress and behave differently to avoid profiling.	CON
+Airport security profiling	Profiling counterproductively contributes to fear and insecurity.	CON
+Airport security profiling	Profiling is institutionalized racism.	CON
+Privatizing social security	Costly privatization of Soc Sec would dampen econ growth	CON
+Privatizing social security	Privatized social security will cut tax revenues and social services.	CON
+Privatizing social security	Private accounts prevent politicians taking from social security.	PRO
+Privatizing social security	Privatizing social security helps the poor.	PRO
+Privatizing social security	Privatizing social security offers ownership in economy.	PRO
+Privatizing social security	Private accounts can be transferred within family	PRO
+Underground nuclear waste storage	Nuclear waste storage requires huge state subsidies.	CON
+Underground nuclear waste storage	Underground storage important to safety across borders.	PRO
+Funding transparency for TV issue ads in elections	Anonymity ensures that arguments rise above identity attacks.	CON
+US Renewable Electricity Standard	A national renewable energy standard will increase electricity costs	CON
+US Renewable Electricity Standard	Renewable Energy Standard increases energy prices, kills jobs	CON
+US Renewable Electricity Standard	Renewable electricity standard increases energy prices - unpopular.	CON
+US Renewable Electricity Standard	Renewable energy standard ensures market certainty for clean energy	PRO
+US Renewable Electricity Standard	Renewable Energy Standard fosters clean energy economy and jobs	PRO
+US Renewable Electricity Standard	Renewable Electricity Standard is more consistent than tax credits	PRO
+Cellulosic ethanol	Cellulosic biofuel production emits significant greenhouse gases	CON
+Cellulosic ethanol	Cellulosic ethanol land-use harms forests, environment, climate	CON
+Cellulosic ethanol	Cellulosic ethanol start-ups are mostly failing	CON
+Cellulosic ethanol	Cellulosic ethanol can be 0 emissions.	PRO
+Cellulosic ethanol	Energy security: cellulosic ethanol reduces dependence on foreign oil.	PRO
+Cellulosic ethanol	Renewable energy mandates ensure market for cellulosic ethanol	PRO
+Cellulosic ethanol	Cellulosic ethanol can generate good-paying jobs	PRO
+Carbon capture and storage	CCS passes C02-leakage problem to our children	CON
+Carbon capture and storage	The transportation of captured carbon can be very expensive	CON
+Carbon capture and storage	CCS can dramatically slash emissions from fossil fuels	PRO
+Carbon capture and storage	CCS makes continued dependence on hydrocarbons cleaner	PRO
+Carbon capture and storage	Sequestered C02 can be injected into reservoirs to recover oil	PRO
+Geoengineering	Geoengineering may whiten skies, harm human psychology	CON
+Geoengineering	Geoengineering technologies may be used for military purposes	CON
+Geoengineering	Geoengineering is too costly	CON
+Geoengineering	Many geoengineering solutions cut atmospheric greenhouse gases.	PRO
+Oil sands	Tar sands can't enhance energy security; too expensive, not enough	CON
+Oil sands	Oil sands take more energy to extract, so emit more	CON
+Oil sands	Oil sands threaten down-river communities	CON
+Oil sands	Oilsands account for less than 1 percent of global emissions	PRO
+Ground zero mosque	Ban ground zero mosque on grounds it does more harm to victims.	CON
+Ground zero mosque	Name Cordoba House indicates nefarious intent of mosque	CON
+Ground zero mosque	Ground zero mosque has angered and offended many New Yorkers.	CON
+Ground zero mosque	Banning ground zero mosque would violate sep of church/state	PRO
+Ground zero mosque	Opposing ground zero mosque alienates/radicalizes American Muslims	PRO
+Open primaries	Open primaries disincentivize engagement by core party activists	CON
+Open primaries	Open primaries allow tactical manipulation	CON
+Open primaries	Open primaries favor voter wishes over party establishment's	PRO
+Open primaries	Open primaries produce competitive, substantive general elections	PRO
+Open primaries	Open primaries can be modified to limit costs	PRO
+Law school	Public interest legal jobs are underpaid	CON
+Law school	Law school teaches people to think like lawyers.	PRO
+Law school	Law school educates for wide-ranging careers.	PRO
+Law school	Law school aids in personal and professional decision-making	PRO
+Deporting illegal immigrants in the US	Mass deportation from US would be very expensive	CON
+Deporting illegal immigrants in the US	Path to citizenship forces illegals to pay back taxes.	CON
+Deporting illegal immigrants in the US	Costs of deportation made up for by savings to taxpayers	PRO
+MBA	Enrolling in MBA can break stride in career	CON
+MBA	Some employers see MBA grads as too expensive	CON
+MBA	MBAs get training in numbers, but not leadership	CON
+MBA	MBA teaches how to operate/lead organizations at scale	PRO
+MBA	MBA provides business competencies more quickly than on-job training	PRO
+MBA	MBA teaches essential business language	PRO
+European Monetary Fund	EMF would allow orderly sovereign default.	PRO
+Breastfeeding in public	Breastfeeding is best for the health and development of babies	PRO
+Breastfeeding in public	Breastfeeding can help new mothers lose weight	PRO
+Banning vuvuzela horns at the 2010 World Cup	Vuvuzela sales are economically beneficial in S. Africa.	CON
+Banning vuvuzela horns at the 2010 World Cup	Vuvuzelas disrupt player's and other's sleep at night	PRO
+Banning vuvuzela horns at the 2010 World Cup	They are a source of headaches.	PRO
+Banning vuvuzela horns at the 2010 World Cup	Vuvuzelas can disrupt national anthems and award ceremonies.	PRO
+Banning vuvuzela horns at the 2010 World Cup	Vuvuzelas can be used as weapons.	PRO
+Medical marijuana dispensaries	Marijuana smoke is highly damaging to the lungs	CON
+Medical marijuana dispensaries	Smoking marijuana impairs the immune system	CON
+Medical marijuana dispensaries	The State is justified in protecting individuals from themselves	CON
+Medical marijuana dispensaries	Marijuana is a gateway drug	CON
+Medical marijuana dispensaries	Due to low addiction rates, marijuana is good for medical use.	PRO
+Medical marijuana dispensaries	Legalizing medical marijuana does not increase use and abuse	PRO
+Medical marijuana dispensaries	More money for other sectors	PRO
+Medical marijuana dispensaries	Marijuana can curb psychotic symptoms in people with schizophrenia	PRO
+Instant replay in baseball	Fallible umpire calls are part of the drama of baseball	CON
+Instant replay in baseball	Instant replays can be exciting for fans.	PRO
+Instant replay in baseball	Instant replay would better legitimize MLB and game outcomes	PRO
+Instant replay in baseball	Instant replay ends umpire shame of making decisive, bad calls	PRO
+Instant replay in baseball	Instant replay would reduce fights between coaches and umpires.	PRO
+Israeli raid on Gaza flotilla	Gaza blockade causes economic and humanitarian suffering	CON
+Israeli raid on Gaza flotilla	Blockade is not causing a humanitarian crisis in Gaza	PRO
+Balanced budget amendment to US Constitution	Amend would create Const. crisis, court battle w/ each budget.	CON
+Balanced budget amendment to US Constitution	Politicians will favor corporate interests w/ balanced budget.	CON
+Balanced budget amendment to US Constitution	Balanced budget amendment will help solve fiscal crisis.	PRO
+Balanced budget amendment to US Constitution	Spending limits creates certainty for job creation.	PRO
+Restoring American Financial Stability Act of 2010	Financial reform puts onerous regulations on free markets.	CON
+Restoring American Financial Stability Act of 2010	2010 financial reform protects big banks, harms smallest.	CON
+Restoring American Financial Stability Act of 2010	2010 financial regs won't end too big to fail and bailouts	CON
+Restoring American Financial Stability Act of 2010	2010 banking reform perpetuates too big to fail policies	CON
+Restoring American Financial Stability Act of 2010	2010 reform expands shock-absorbers for nex financial crisis	PRO
+Restoring American Financial Stability Act of 2010	2010 financial reform increases transparency	PRO
+Restoring American Financial Stability Act of 2010	Financial reform will make derivatives market transparent	PRO
+Greece bailout	Greece bailout adds to debt, does more harm than good	CON
+Greece bailout	Default would devastate Greek and global economies	PRO
+Greece bailout	Greek bailout avoids a second global economic crisis	PRO
+Greece bailout	Bailout of Greece will help prevent contagion	PRO
+Mine Ban Treaty (Ottawa Treaty)	Landmines can protect peacekeepers.	CON
+Mine Ban Treaty (Ottawa Treaty)	Landmines kill soldiers and limit mobility of military planting them	PRO
+Mine Ban Treaty (Ottawa Treaty)	Deploying smart mines encourages the use of all mines	PRO
+Graduated response antipiracy laws	Graduated response could shut down public Internet hubs	CON
+Graduated response antipiracy laws	Governments will use ISPs to catch more than pirates	CON
+Graduated response antipiracy laws	Three strikes has hard time determining offending user	CON
+Graduated response antipiracy laws	Enforcing graduated response will be very expensive	CON
+Graduated response antipiracy laws	Graduated response helps avoid litigating against consumers.	PRO
+Graduated response antipiracy laws	Graduated response helps maintain user privacy	PRO
+Network neutrality	Network neutrality damages competition and niche suppliers	CON
+Network neutrality	Net Neutrality may restrict value-added services	CON
+Network neutrality	W/o Net Neutrality, price discrimination risks stifling start-ups	PRO
+Network neutrality	Net neutrality may not be good for ISPs, but good overall.	PRO
+Constitutionality of US health insurance mandates	Mandates create cartel of govt-supported insurance companies	CON
+Constitutionality of US health insurance mandates	Enforcing mandates may intrude on Constitutional rights	CON
+Constitutionality of US health insurance mandates	Congress can't regulate behavior indirectly impacting commerce	CON
+Constitutionality of US health insurance mandates	Insurance mandates set dangerous precedent for federal power	CON
+US debt ceiling deal	Debt deal doesn't cut spending enough to solve deficit	CON
+US debt ceiling deal	Tax deal was win for wealthiest and their lobbyists.	CON
+US debt ceiling deal	Debt deal cuts spending too early for recovery	CON
+US debt ceiling deal	Debt deal avoids a disastrous default.	PRO
+US debt ceiling deal	Debt deal makes needed cuts to military budgets.	PRO
+US offshore oil drilling	US offshore drilling would hardly lower global oil prices	CON
+US offshore oil drilling	Greater conservation is more important than offshore oil drilling	CON
+US offshore oil drilling	Noise from offshore drilling can harm sea animals	CON
+US offshore oil drilling	Offshore oil exploration could result in a major find	PRO
+US offshore oil drilling	Offshore drilling is very valuable to the US economy	PRO
+Google decision to stop censoring results in China	Google out of China reduces access to free/fair info.	CON
+Google decision to stop censoring results in China	Google pressuring China on censorship emboldens hard-liners	CON
+Google decision to stop censoring results in China	Google's departure from China sends message for free speech	PRO
+War on Drugs	Costs of Drug War are greater than costs of legalization	CON
+War on Drugs	War on Drugs worsens cartel violence	CON
+War on Drugs	War on drugs keeps drug trade profitable, lures children in	CON
+War on Drugs	Legalizing drugs would improve quality control	CON
+War on Drugs	War on Drugs helps hold down usage	PRO
+War on Drugs	The state is justified in protecting society from drug-users	PRO
+Gay marriage	Gay marriage undercuts procreation at time of vulnerability	CON
+Gay marriage	Gay marriage threatens cultural tradition of marriage	CON
+Gay marriage	Benefits for gays are much better when in marriage	PRO
+Corporate personhood	Corporate personhood favors corporate interests	CON
+Corporate personhood	Corporate personhood enables multinational corporations, global stability.	PRO
+Corporate personhood	With rights companies can enter into contracts, lawsuits	PRO
+Corporate personhood	Corporate personhood protects businesses from discrimination	PRO
+Corporate free speech	More spending in elections undermines public confidence	CON
+Corporate free speech	Corp. spending limits infringe free speech in assoc.	PRO
+Corporate free speech	Unlimited spending lets candidates focus on message over fundraising.	PRO
+Big government	Small government encourages self-reliance	CON
+Big government	Big govt impedes on and weakens local associations	CON
+Big government	Govt bureaucrats pursue more power to advance careers.	CON
+Big government	Big government fosters harmful entitlement culture	CON
+Big government	Big government invites corporate special interests	CON
+Big government	Big govt is individuals working to meet collective needs	PRO
+Big government	Small government produces less healthy societies	PRO
+Big government	Big government helps stimulate economic growth	PRO
+Big government	European-style big governments foster more stable societies	PRO
+College football playoffs	Playoffs would be unfair to some college football teams	CON
+College football playoffs	Football playoffs would not make traveling fans happy	CON
+College football playoffs	Football players miss fewest classes; playoffs OK	PRO
+College football playoffs	Playoffs maintain importance of regular season	PRO
+2010 US bank tax	2010 bank tax will raise less revenue due to evasion	CON
+2010 US bank tax	Bank tax is too small to impact deficit	CON
+2010 US bank tax	2010 US bank tax will kill jobs created/fostered by banks	CON
+2010 US bank tax	Bank tax recoups taxpayer bailout of banks	PRO
+2010 US bank tax	Bank tax compensates for damage done by banks	PRO
+2010 US bank tax	Bank tax will help reduce large US deficit	PRO
+Full-body scanners at airports	Full-body scanners will slow airport security check-points.	CON
+Full-body scanners at airports	Body scans will make many children and parents uncomfortable.	CON
+Full-body scanners at airports	Scanners help reveal hidden weapons and bombs	PRO
+Full-body scanners at airports	Full-body scans more effectively reveal concealed weapons.	PRO
+US health care reform	Government-approved insurers of US health care law limits competition	CON
+US health care reform	2009 US health care bill does not cut costs	CON
+US health care reform	Health care bill would insure 30m Americans	PRO
+US health care reform	US health care law ends pre-existing conditions discrimination	PRO
+Direct democracy	Direct democracy fosters emotional decision-making.	CON
+Direct democracy	Direct democracy lacks accountability of decision-making	CON
+Direct democracy	Direct democracy dulls politicians' sense of responsibility	CON
+Direct democracy	Direct democracy creates risk of corrupt recall efforts.	CON
+Direct democracy	Direct democracy avoids appointment of unaccountable officials.	PRO
+Direct democracy	Direct democracy generally reduces the risks of corruption.	PRO
+Affirmative action	Affirm action mismatches bad students with difficult classes	CON
+Affirmative action	Affirmative action promotes mediocrity by undermining meritocracy.	CON
+Affirmative action	Affirm action fills key jobs with less productive individuals.	CON
+Affirmative action	Affirmative action wrongly takes from one group to give to another	CON
+Affirmative action	Affirmative action is only way to level playing field	PRO
+Affirmative action	Affirmative action makes race only a small plus for candidates	PRO
+EU elected president	Electing a President increases the power a single individual can hold.	CON
+EU elected president	An EU president cannot hold such a complicated system to account.	CON
+EU elected president	Elections would force EU politicians to act as populists.	CON
+EU elected president	A government controlled by a single person would increase transparency.	PRO
+EU elected president	Electing an EU president directly will increase accountability.	PRO
+EU elected president	An elected president would make the EU more functional.	PRO
+Trying 9/11 terror suspects in NYC courts	Trying terrorists in NY requires costly security	CON
+Trying 9/11 terror suspects in NYC courts	Trying terrorists in NYC grants them their wish	CON
+Trying 9/11 terror suspects in NYC courts	Terrorist suspects are particularly dangerous to guards	CON
+Trying 9/11 terror suspects in NYC courts	Terrorist trial in NY gives appearance of US weakness	CON
+Trying 9/11 terror suspects in NYC courts	Trying and imprisoning terrorists can create US jobs	PRO
+Trying 9/11 terror suspects in NYC courts	Civilian trials avoid using evidence from coercive interrogations	PRO
+Trying 9/11 terror suspects in NYC courts	Civilian trials improve global opinion of US, fight on terrorism	PRO
+Gene patents	Patent licenses are very costly, impair R and D	CON
+Gene patents	Gene patents do not incentivize innovation	CON
+Gene patents	Gene patents and bio-engineering may harm environment/society.	CON
+Gene patents	Gene patents and research could do harm to the environment.	CON
+Gene patents	Gene patents help drive major economic breakthroughs.	PRO
+Gays in the US military	Minority of troop discomfort with gays is enough to damage cohesion.	CON
+Gays in the US military	It would strenghten relations	PRO
+Gays in the US military	Most gays will remain private after military ban is lifted	PRO
+Nuclear energy	Nuclear energy will compete with and squeeze out renewable energy.	CON
+Nuclear energy	Entire nuclear cycle may emit substantial greenhouse gases	CON
+Nuclear energy	Nuclear energy relies too heavily on subsidies/taxpayers	CON
+Nuclear energy	Nuclear energy can reduce materials available for weapons-use.	PRO
+Nuclear energy	Concentration of power in nuclear is economical.	PRO
+Pornography	Pornography encourages promiscuity and shallow relationships.	CON
+Pornography	Many rapists are obsessed with and encouraged by pornography	CON
+Pornography	Pornography further victimizes sexual abuse victims.	CON
+Pornography	Porn improves self-control with distance from sex.	PRO
+Pornography	Pornography lets women articulate femininity.	PRO
+Pornography	Porn watching may actually reduce rape rates	PRO

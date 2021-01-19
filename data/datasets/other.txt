@@ -1,0 +1,680 @@
+Health insurance mandates	Mandatory health insurance cannot be effectively enforced	CON
+Health insurance mandates	MA insurance mandates are performing pretty well	PRO
+Health insurance mandates	The struggling can be exempted from insurance mandate.	PRO
+Health insurance mandates	Health insurance mandates need not be perfectly enforced to be effective.	PRO
+More troops to Afghanistan under Obama	Afg is backward, cannot be salvaged by US	CON
+More troops to Afghanistan under Obama	Afghanistan security forces can hardly be trained	CON
+More troops to Afghanistan under Obama	Counter-terrorism w/o troops did not work in 1990s	PRO
+More troops to Afghanistan under Obama	Afghanistan is more stable and governable than often assumed	PRO
+More troops to Afghanistan under Obama	Most Afghanis oppose Taliban, support US/NATO	PRO
+Health insurance cooperatives	Supporters of co-ops will never reduce government involvement.	CON
+Health insurance cooperatives	Co-ops are a great alternative to the public option	PRO
+Health insurance cooperatives	Non-profit co-ops are driven by health interests of members, not profits	PRO
+Health insurance cooperatives	Some government involvement in co-ops is justified.	PRO
+Public health insurance option	There are not enough votes to pass a public insurance plan.	CON
+Public health insurance option	US polls find a majority favor a public insurance option	PRO
+Public health insurance option	Public and private insurers can learn from each other	PRO
+Public health insurance option	Insurers should not be trusted with sole control of health insurance	PRO
+Mandatory calorie counts on menus	It is difficult for restaurants to keep calorie counts consistent.	CON
+Mandatory calorie counts on menus	Calorie counts make it easier to judge calories in foods	PRO
+Mandatory calorie counts on menus	Fear of government should not obstruct calorie counts on menus	PRO
+Mandatory calorie counts on menus	No restaurant will be disadvantaged if all are required to list calories.	PRO
+Manned mission to Mars	Cumulative challenges and risks of Mars mission are too great	CON
+Manned mission to Mars	There is little public support for a mission to Mars	CON
+Manned mission to Mars	Women are less supportive of Mars mission than men	CON
+Manned mission to Mars	Artificial gravity can overcome zero-gravity on Mars mission.	PRO
+Manned mission to Mars	We can commit to Mars mission before knowing how	PRO
+Manned mission to Mars	Committing to Mars will inspire NASA to make it happen	PRO
+Colonization of the Moon	Human survival is ensured by fighting global warming, not Moonbase.	CON
+Colonization of the Moon	Growing crops on the moon faces many difficult challenges.	CON
+Colonization of the Moon	A manned presence on the Moon is superior to a robotic one	PRO
+Mandatory labeling of genetically modified foods	Labeling is wrong when GM foods show no differences with other foods	CON
+Mandatory labeling of genetically modified foods	Labeling GM foods applies precautionary principle to unknown risks.	PRO
+Legality of coca production and consumption	Tradition of coca consumption is a poor argument.	CON
+Legality of coca production and consumption	Coca consumption is most akin to caffeine use.	PRO
+Legality of coca production and consumption	Coca has spiritual value to indigenous Andeans.	PRO
+Legality of coca production and consumption	All South American states support indigenous right to coca.	PRO
+Legality of coca production and consumption	Coca can be used in a variety of products	PRO
+Legality of coca production and consumption	Coca can be used as a local anesthetic.	PRO
+Filibuster	The filibuster is outdated and uncivilized in a modern democracy	CON
+Filibuster	General statements against the filibuster	CON
+Filibuster	Filibuster fits framers' distrust of govt, desire for checks	PRO
+Filibuster	Filibuster helps flag controversial issues for the public	PRO
+Filibuster	Filibuster provides important checks and balances	PRO
+Criminalization of Holocaust denial	Holocaust denial gets undue attention because it is illegal.	CON
+Criminalization of Holocaust denial	Holocaust deniers' claim of no major loss of Jewish lives is false	PRO
+Needle exchanges	Needle exchanges protect public, not just drug addicts.	PRO
+Needle exchanges	Needle exchanges help protect families of drug-abusers	PRO
+Needle exchanges	Needle exchanges benefit their areas of implementation.	PRO
+Comprehensive Nuclear-Test-Ban Treaty	Test ban, as a means to abolishing nuclear weapons, is unrealistic	CON
+Comprehensive Nuclear-Test-Ban Treaty	Enforcing a test ban, not detecting tests, is the issue	CON
+Comprehensive Nuclear-Test-Ban Treaty	Comprehensive Test Ban Treaty still relevant after Cold War	PRO
+Israeli settlements	Israel uses violence to unlawfully back settlements	CON
+Israeli settlements	Israel encourages settlements; they are not growing naturally.	CON
+Israeli settlements	Jewish settlements are not part of any illegal occupation	PRO
+Israeli settlements	Israeli settlements may be unfortunate, but are not illegal.	PRO
+Israeli settlements	Jews have historical right to return to West Bank	PRO
+Israeli settlements	Israelis have equal claim as Palestinians to settle in West Bank	PRO
+Two-state solution to Israeli-Palestinian conflict	Inclusive one-state solution adopts democratic principles	CON
+Two-state solution to Israeli-Palestinian conflict	Idea of Jewish state, in two-state solution, is undemocratic	CON
+Two-state solution to Israeli-Palestinian conflict	A two-state solution will not assuage Iran.	CON
+Two-state solution to Israeli-Palestinian conflict	Two-state plan respects democratic will for separate states	PRO
+Two-state solution to Israeli-Palestinian conflict	Palestinians want two-state solution, assuming settlements stop.	PRO
+Merit pay for teachers	Teacher merit is too hard to measure for merit-pay to be fair	CON
+Merit pay for teachers	Merit pay for teachers is tied to unreliable standardized tests	CON
+Merit pay for teachers	Better teachers should be paid more	PRO
+Merit pay for teachers	Teachers should be paid more; based on merit	PRO
+Enhanced interrogation techniques	US prosecuted foreign governments for waterboarding	CON
+Enhanced interrogation techniques	Sleep deprivation is a form of torture.	CON
+Enhanced interrogation techniques	Enhanced interrogations unnecessary; Army Field Manual is sufficient	CON
+Enhanced interrogation techniques	Enhanced interrogations were adapted from abusive foreign tactics.	CON
+Enhanced interrogation techniques	Torture to save lives has a substantial body of support among publics:	PRO
+Enhanced interrogation techniques	Majority of Americans believe harsh interrogations justified	PRO
+Enhanced interrogation techniques	Interrogations are not torture when no intent to torture.	PRO
+Enhanced interrogation techniques	Enhanced interrogation should not be condemned because of bad apples.	PRO
+Is a nuclear Iran intolerable?	Air strikes on Iran would be limited to self-defense	PRO
+AIG bonuses	AIG bonuses are an insult to suffering taxpayers	CON
+AIG bonuses	Justice of reneging AIG bonuses would be worth costs	CON
+AIG bonuses	AIG workers/execs that caused collapse won't help recovery	CON
+AIG bonuses	AIG did not file for bankruptcy; bonus contracts still valid	PRO
+Earmarks	Earmarks cannot be fully examined during short period of exposure	CON
+Earmarks	Earmarks are often unrelated to legislation; undemocratic.	CON
+Earmarks	Earmarks are more transparent than other spending programs	PRO
+Free public transportation	With the financial crisis, we can't afford to spend more money on something like this.	CON
+Free public transportation	The Government's job is to provide services.	PRO
+Education vouchers	Little evidence that vouchers improve academic achievement.	CON
+Education vouchers	Public schools are being improved without vouchers	CON
+Education vouchers	Vouchers comply with separation of church and state	PRO
+No Child Left Behind Act	No Child Left Behind does not inspire a love of learning.	CON
+No Child Left Behind Act	No Child Left Behind lacks non-English tests.	CON
+2009 US economic stimulus	Economic stimulus by government intervention always fails	CON
+2009 US economic stimulus	Stimulus is from taxes or debt; injects no new money	CON
+2009 US economic stimulus	New Deal did little-to-nothing to end the Depression	CON
+2009 US economic stimulus	Majority of economists believe government can stimulate economy	PRO
+Legalization of adult incest	Homosexuality is more benign than incest on the family.	CON
+Legalization of adult incest	Sex is for reproduction; incest cannot be only about sex.	CON
+Legalization of adult incest	Banning adult incest is analogous to banning homosexuality.	PRO
+Legalization of adult incest	Many things are bad for the family, but not banned like incest	PRO
+Charter schools	New Orleans should not be experimented on with charter schools	CON
+Charter schools	Adaptive charter schools can make necessary changes	PRO
+Crime cameras	Crime cameras are an intrusion on individual privacy rights	CON
+Crime cameras	Police should not waste time watching crime cameras	CON
+Crime cameras	Crime cameras often have no one watching due to limited resources.	CON
+Crime cameras	Crime cameras violate privacy no more than corner store cameras.	PRO
+Crime cameras	Cameras help protect citizens' liberties against crime.	PRO
+Crime cameras	If a person has nothing to hide, then there is no issue.	PRO
+Guantanamo Bay detention center	Guantanamo is inconsistent with American principles of justice	CON
+Guantanamo Bay detention center	Guantanamo detainees are not being tortured	PRO
+Guantanamo Bay detention center	Conditions at Guantanamo are very good for detainees	PRO
+Israeli military assault in Gaza	Israel's right to self-defense does not justify mass murder	CON
+Republika Srpska secession from Bosnia and Herzegovina	Republika Srpska cannot break Dayton, which created RS	CON
+Republika Srpska secession from Bosnia and Herzegovina	Republika Srpska founded on ethnic cleansing; no right to independence	CON
+Republika Srpska secession from Bosnia and Herzegovina	Republika Srpska has a right to self-determination by referendum	PRO
+Republika Srpska secession from Bosnia and Herzegovina	Republika Srpska has right to secede to protect right to exist	PRO
+Republika Srpska secession from Bosnia and Herzegovina	Dayton/Bosnia failures give cause to Republika Srpska secession	PRO
+Republika Srpska secession from Bosnia and Herzegovina	Bosnian Serbs fought legitimately in Bosnian civil war	PRO
+International Criminal Court	ICC lacks separation of powers and checks and balances	CON
+International Criminal Court	ICC adopts an unacceptably vague definition of aggression	CON
+International Criminal Court	UN Security Council can check/veto ICC prosecutions	PRO
+International Criminal Court	ICC has strong controls for politicization and abuse	PRO
+Rebuilding New Orleans	Government should fund residents, not rebuilding New Orleans	CON
+Rebuilding New Orleans	New Orleans has been on the economic decline for decades	CON
+Rebuilding New Orleans	New Orleans civilization should be maintained despite hurricane threat	PRO
+Rebuilding New Orleans	City location need not be logical to justify existence	PRO
+Rebuilding New Orleans	New Orleans should be rebuilt out of respect for tragedy.	PRO
+Rebuilding New Orleans	New Orleans can be rebuilt to address its social problems	PRO
+Bailout of US automakers	Blame for auto failures is on management, not outside factors	CON
+Bailout of US automakers	US has successfully aided autos before; can do it again	PRO
+US and NATO intervention in Libya	Libya didn't attack US; President not authorized for war	CON
+US and NATO intervention in Libya	Obama needed to consult all of Congress, not just leaders.	CON
+US and NATO intervention in Libya	President's action in Libya violates his campaign pledges.	CON
+US and NATO intervention in Libya	Pres has authority to commit to non-war military action.	PRO
+US and NATO intervention in Libya	US responded to Qadhafi loss of sovereign legitimacy	PRO
+US and NATO intervention in Libya	US action in Libya is morally legitimate	PRO
+Infant male circumcision	Neonatal circumcision violates right to avoid inflicted pain	CON
+Infant male circumcision	Circumcision is akin to vaccination of infants	PRO
+Infant male circumcision	Parents have a right to circumcise their children	PRO
+Fairness Doctrine	Balanced left/right broadcasting exist w/o Fairness Doctrine	CON
+Fairness Doctrine	Free speech requires boundaries, such as Fairness Doctrine	PRO
+Employee Free Choice Act	EFCA gives employees equal access to injunctive relief	PRO
+Employee Free Choice Act	There is significant public support for EFCA.	PRO
+Pickens US energy plan	Pickens Plan requires infeasible electric grid upgrades	CON
+Pickens US energy plan	Wind energy production is inconsistent relative to demand	CON
+Pickens US energy plan	Wind energy is non-dispatchable	CON
+Pickens US energy plan	The Pickens Plan is generally not viable.	CON
+Pickens US energy plan	Inconsistent wind energy in Pickens Plan can be accommodated	PRO
+Pickens US energy plan	Natural gas burns more cleanly than gasoline in general	PRO
+Pickens US energy plan	Natural gas is about half as expensive as gasoline.	PRO
+Wave power	Focus on energy conservation before wave power	CON
+Wave power	Wave energy more about profits than environment	CON
+Vehicle fuel economy standards	Fuel economy standards are a solution in search of a problem	CON
+Algae biofuel	Algae fuel ponds must be expensively covered	CON
+Algae biofuel	Algae biofuel is commercially viable on an industrial scale	PRO
+Algae biofuel	Algae biofuel is biodegradable.	PRO
+Algae biofuel	Algae biofuel is a renewable resource.	PRO
+Kyoto Protocol	It is unimportant for the US to join Kyoto now	CON
+Kyoto Protocol	Kyoto regulations on C02 emissions do not improve air-quality	CON
+Kyoto Protocol	The Kyoto Protocol's emissions targets are unrealistic	CON
+Kyoto Protocol	Humans are not causing global warming so Kyoto can't solve it	CON
+Kyoto Protocol	US cities are adopting Kyoto, the federal government should too	PRO
+Kyoto Protocol	Kyoto is an important first step in the right direction	PRO
+Year-round school	Year-round schools, with equal vacation time, is no better for learning	CON
+Year-round school	The studies on year-round schooling are inconclusive.	CON
+Year-round school	Year-round schools have same overall schooling and vacation time.	PRO
+Year-round school	Not-using schools in the summer is generally inefficient.	PRO
+Year-round school	Tradition and year-round schools can exist side-by-side	PRO
+$700 billion US economic bailout	$700b plan has been corruptly influenced by Wallstreet	CON
+$700 billion US economic bailout	Government should buy stock in banks, not just bail them out	CON
+$700 billion US economic bailout	Financial crisis requires and justifies strong executive powers.	PRO
+Reforestation as a solution to global warming	Trees only absorb C02 during their growth	CON
+Reforestation as a solution to global warming	Enough land for reforestation to be a viable solution	PRO
+Geoengineering, iron fertilization of algae blooms	Algae blooms do not sequester much carbon	CON
+Geoengineering, iron fertilization of algae blooms	Algae bloom solutions require fertilizing too much ocean area	CON
+Geoengineering, iron fertilization of algae blooms	Best practices in iron fertilization can ensure effectiveness	PRO
+Geoengineering, iron fertilization of algae blooms	If natural iron fertilization occurs, it is OK for humans to do it	PRO
+Geoengineering, iron fertilization of algae blooms	Humans are already changing Earth; how can geoengineering be wrong?	PRO
+Geoengineering, solar shading	Solar shading might cool tropics, but not high latitudes and poles	CON
+Geoengineering, solar shading	Arguments against geoengineering are too elusive	PRO
+Geoengineering, solar shading	Sunshield costs are reasonable in face of global warming	PRO
+Geoengineering, solar shading	Volcanoes perform solar shading; why is it wrong for humans to do so?	PRO
+Geoengineering, solar shading	Solar ring is cheapest solar shading solution	PRO
+Wind energy	Wind energy comes naturally from the environment.	PRO
+Carbon emissions trading	Emissions trading has govt not markets set cap	CON
+Carbon emissions trading	US cap-and-trade in sulfur dioxidew was succesful	PRO
+Carbon emissions trading	A cap-and-trade system is progressive	PRO
+Natural gas vehicles	Natural gas vehicles are not yet commercially viable.	CON
+Natural gas vehicles	The performance of natural gas vehicles is not notable.	CON
+Natural gas vehicles	Natural gas utilities have a long record of safety	PRO
+Random sobriety tests for drivers	Random sobriety tests are a just public safety intervention	PRO
+Random sobriety tests for drivers	RBT has been successfully implemented in many modern democracies	PRO
+Random sobriety tests for drivers	Good use of police to cultivate awareness on drunk driving.	PRO
+Hybrid vehicles	Power of hybrids is senseless in the face of global warming.	CON
+Hybrid vehicles	Hybrid cars are simply a way for oil companies to maintain profits.	CON
+Hybrid vehicles	Hybrids are more economical than electric cars.	PRO
+Hydrogen vehicles	Too much energy required to compress hydrogen for cars	CON
+Hydrogen vehicles	Hydrogen can't be compressed to give sufficient driving range	CON
+Hydrogen vehicles	Hydrogen is more challenging than alternatives	CON
+Hydrogen vehicles	It's OK to use more energy to make hydrogen than is obtained out	PRO
+Hydrogen vehicles	Hydrogen is non-toxic, unlike most fossil fuels.	PRO
+Hydrogen vehicles	Hydrogen cars are like high-performance electric cars	PRO
+Electric vehicles	Public transportation is a better idea than electric cars	CON
+Electric vehicles	Electric vehicles are more resilient to price pressures.	PRO
+Electric vehicles	Electric car battery technology and costs are improving rapidly	PRO
+Electric vehicles	Electric car power and speed can be precisely controlled.	PRO
+Tidal energy	Tidal barages produce more energy than other forms of tidal.	PRO
+Tidal energy	A tidal barrage can safeguard coastlines from storms.	PRO
+Natural gas	Natural gas vehicle fuel tanks are very strong and safe	PRO
+Natural gas	Natural gas engines are as efficient as gasoline engines.	PRO
+Natural gas	Liquefied natural gas can be a good fuel for vehicles.	PRO
+Natural gas	Natural gas has very diverse applications in the home.	PRO
+Hydroelectric dams	There are better ways to store water than dams.	CON
+Hydroelectric dams	Human displacement does not inherently accompany dams.	PRO
+Solar energy	Solar electricity cannot significantly reduce dependencies on oil.	CON
+Solar energy	Nuclear power is a more potent and efficient source of energy.	CON
+Solar energy	Clouds and smog undermine solar energy unlike other energy sources.	CON
+Solar energy	Producing solar cells need not use fossil fuel energy.	PRO
+Solar energy	Solar energy can be stored in ways other than batteries (i.e. hydrogen).	PRO
+South Ossetia independence	The world needs fewer borders; A S. Ossetian nation adds more.	CON
+South Ossetia independence	S. Ossetia has a definite territory.	PRO
+South Ossetia independence	S. Ossetia 2006 referendum should be recognized	PRO
+South Ossetia independence	Russia supports S. Ossetia's 2006 referendum and right to independence.	PRO
+South Ossetia independence	Modern Georgia never really controlled S. Ossetia.	PRO
+South Ossetia independence	Name Ossetia has history independent of Georgia	PRO
+Falkland Islands, return of	Relations with Argentina are not important to Britain.	CON
+Falkland Islands, return of	The Nookta Sound convention did not affect Britains rights to the islands as they already had an agreement with Spain where both nations rights were secured in 1771	CON
+Falkland Islands, return of	Britain sent its soldiers to fight an unjust war in the Falkland Islands.	PRO
+Home plate collision rule in baseball	Home plate contact isn't an important part of game.	CON
+Home plate collision rule in baseball	Home base collisions are essential characteristic of hardball.	PRO
+Obama, meeting with hostile foreign leaders without preconditions	Iran sponsors terrorists; wrong to talk with them	CON
+Obama, meeting with hostile foreign leaders without preconditions	Iranian leaders are evil; wrong to meet with them	CON
+Obama, meeting with hostile foreign leaders without preconditions	It is irrational to meet unconditionally with irrational leaders.	CON
+Obama, meeting with hostile foreign leaders without preconditions	Obama's position on meeting hostile leaders is naive; poor judgement.	CON
+Obama, meeting with hostile foreign leaders without preconditions	Talking to your enemies is not a concession	PRO
+EU constitution reform treaty (Lisbon Treaty)	The Lisbon Treaty simply repackages the failed EU Constitution	CON
+Cluster bomb ban	Cluster bombs are usually used in uninhabited areas	CON
+Cluster bomb ban	Importance of cluster bombs against threats makes a ban infeasible	CON
+Democratic peace theory	Democracies mostly only engage in defensive wars with non-democracies.	PRO
+Democratic peace theory	Democracies are founded on similar principles so they should not go to war.	PRO
+Bombing Hiroshima and Nagasaki	The bombing of Japan was illegal under the international law of the time.	CON
+Bombing Hiroshima and Nagasaki	Bombing Japan was to take revenge on the civilians.	CON
+Bombing Hiroshima and Nagasaki	Soviet victories in Manchuria were core cause of Japanese surrender.	CON
+Bombing Hiroshima and Nagasaki	No international law forbade the bombing of Japanese civilians	PRO
+Bombing Hiroshima and Nagasaki	Bombing Japan was the lesser evil among the alternatives	PRO
+Bombing Hiroshima and Nagasaki	Bombing Japan was ethical in context of the horrors of WWII	PRO
+Bombing Hiroshima and Nagasaki	Bombing Japan was justified in the post-Okinawa context	PRO
+Bombing Hiroshima and Nagasaki	Hiroshima was a strategic military headquarters and target.	PRO
+NATO expansion	Croatia is doing well at securing stability	PRO
+NATO expansion	The expense of NATO expansion is marginal when compared to the defence budgets of the major NATO States.	PRO
+European missile defense	Both missile threat and missile defense do not exist	CON
+European missile defense	The majority of poles oppose missile defense on their territory	CON
+European missile defense	European missile defense is a necessary part of a layered defense	PRO
+European missile defense	Real threat of rogue states missile attacks	PRO
+European missile defense	Missile defense systems are becoming effective and reliable	PRO
+European Union Expansion	European Union should include all of Europe; it's in their name.	PRO
+European Union Expansion	Cheaper labour is good for the economies of richer European nations.	PRO
+Banning cell phones in cars	Many things in cars are just as distracting as cell phones	CON
+Banning cell phones in cars	If you can't ban sleep-driving, why ban talking on phone in car.	CON
+Banning cell phones in cars	Markets are better at regulating cell phone use in cars	CON
+Banning cell phones in cars	Cell phone use in cars is unnecessary; people went without them before.	PRO
+Banning cell phones in cars	Cell phones should only be used while driving in dire situations	PRO
+Banning cell phones in cars	Careless driving laws are inadequate; cell phone ban is necessary.	PRO
+Banning cell phones in cars	State has authority to regulate actions of drivers (by cell phone ban).	PRO
+Child beauty pageants	Pageants based on bad idea of children being better than others	CON
+Child beauty pageants	Parents should be trusted on entering kids in child beauty pageants.	PRO
+Child beauty pageants	Plenty of other activities are exclusive to boys/girls.	PRO
+Death penalty	Life in prison is a sufficient punishment; execution is excessive	CON
+Death penalty	The death penalty does not bring back a loved one	CON
+Death penalty	The death penalty is often motivated by discrimination	CON
+Death penalty	Capital punishment is compassionate to the victims	PRO
+Hunting for sport	Animals should be treated as we would want to be treated	CON
+Hunting for sport	Wrong to hunt harmless, defenseless animals	CON
+Hunting for sport	Modern humans have lost touch with animals and our likeness	CON
+Hunting for sport	Evolutionary science debunks the idea of human dominion over animals	CON
+Hunting for sport	There is an inherent human passion for hunting	PRO
+Hunting for sport	Exploiting animals is more dignified than their living in the wild	PRO
+Hunting for sport	Human life is of greater intrinsic value than animal life	PRO
+Prisoners right to vote	Unhelpful to ban voting by prisoners serving for 6 months	PRO
+Prisoners right to vote	Prisoners must be able to influence world they will re-enter.	PRO
+Prisoners right to vote	Depriving prisoners of a vote is simply mean spirited.	PRO
+Lowering US drinking age from 21 to 18	Increase driving age to 18; reduce drinking age to 18	PRO
+Lowering US drinking age from 21 to 18	Drinking is healthy in moderation.	PRO
+Ban on laser pointers	Laser pointers are in popular demand.	CON
+Ban on laser pointers	Business people use lasers to give presentations.	CON
+Ban on laser pointers	Illegal use of lasers (like knives) does not justify ban	CON
+Ban on laser pointers	Laser pointers are a valuable tool for self-defense	CON
+Ban on laser pointers	The crime is very dangerous.	PRO
+Ban on laser pointers	There are enough alternatives to lasers for self defense.	PRO
+Gay adoption	Children should not be subjects of a gay adoption experiment	CON
+Gay adoption	Children do not need distinct male and female parental role-models	PRO
+Gay adoption	A changing society should not cling to traditional family models.	PRO
+Gay adoption	Homosexual parenting is just as good as heterosexual parenting	PRO
+Gay adoption	There is no scientific basis for concluding that gay and lesbian parents are any less fit or capable than heterosexual parents, or that their children are any less psychologically healthy and well adjusted.	PRO
+Gay adoption	Homophobia is wrong so should not be used against gay adoption	PRO
+Funding for space exploration	Going into space to discover the effects of space on humans is circular logic.	CON
+Funding for space exploration	The risk of us being wiped out by an asteroid like the dinosaurs is very very small.	CON
+Funding for space exploration	Humans should not bank on destroying the Earth and moving to another planet.	CON
+Catholic Church contraception policy	Catholic Church's natural family planning is ineffective	CON
+Catholic Church contraception policy	Natural methods of contraception can provide the solution to high population growth	PRO
+Catholic Church contraception policy	Evil (condoms) should not be used to fight evil (HIV/AIDS)	PRO
+Catholic Church contraception policy	Church contraception policy is supported by natural law:	PRO
+Turkey EU membership	EU states strongly opposed to Turkey's admission should not be dragged along	CON
+Turkey EU membership	That Turkey needs to reform should not block its admission to the EU.	PRO
+Ban on human reproductive cloning	Cloning is safe enough to perform on humans	CON
+Ban on human reproductive cloning	Opponents exaggerate the impact that cloning will have on the world	CON
+Ban on human reproductive cloning	If women have a right to reproduce, society can't say not by cloning	CON
+Ban on human reproductive cloning	Asexual reproduction is sub-optimal for the human species	PRO
+Trans fat ban	Other foods harmful, singling out trans fats is arbitrary.	CON
+Trans fat ban	People free to do things that hurt no one else (eat trans fats).	CON
+Trans fat ban	Trans fat ban needn't be whole solution to be good.	PRO
+Trans fat ban	Govt should protect consumers when consumers aren't fully informed.	PRO
+Banning Muslim hijab	Discriminating against Muslim forms of child-indoctrination is wrong	CON
+Banning Muslim hijab	Banning head scarves in school is an egregious state intrusion	CON
+Banning Muslim hijab	The idea that women must wear headscarves to be dignified is offensive	PRO
+Banning Muslim hijab	Headscarves falsely presume that men can't contain sexual impulses	PRO
+Assassination of a Dictator	To liberalize a regime, there are better ways than assassination.	CON
+Assassination of a Dictator	Moral absolutes exist; murder can never be justified.	CON
+Assassination of a Dictator	People would support Israel's assassinations if they lived in Israel	PRO
+Assassination of a Dictator	Targeted assassinations are consistent with international law	PRO
+Is Wikipedia valuable?	Many incomplete stub articles persist on Wikipedia.'	CON
+Is Wikipedia valuable?	Many vandalisms on Wikipedia are not corrected for months	CON
+Is Wikipedia valuable?	Wikipedia lacks the important process of peer-review	CON
+Is Wikipedia valuable?	Wikis need more users to help them grow	PRO
+Is Wikipedia valuable?	Wikipedia is not for individual prose, but superior collective knowledge.	PRO
+Is Wikipedia valuable?	Standards are always improving on Wikipedia.	PRO
+Abortion	The Hippocratic oath forbids doctors from performing abortions	CON
+Abortion	The right to choice/privacy (abortion) does not override the right to life	CON
+Abortion	Abortion advocates wrongly value quality of life over sanctity of life	CON
+Abortion	The fetus causes physical pain; the woman has a right to self-defense.	PRO
+Vegetarianism	Dominion and meat-eating can and should be excercised responsibly.	CON
+Vegetarianism	It is healthiest to eat a balanced diet with both meat and vegetable products.	CON
+Vegetarianism	Vegetarians are healthy due to their health-consciousness not vegetarianism.	CON
+Vegetarianism	Many special environments have been created by livestock farming	CON
+Vegetarianism	Human and animal differences do not justify speciism/discrimination	PRO
+Vegetarianism	Animals have rights and it is wrong to kill them needlessly.	PRO
+Vegetarianism	Humans have a choice and thus responsibility to do no harm to animals.	PRO
+Libertarianism	Society must collectively own many form of property through government	CON
+Libertarianism	Libertarian economics runs contrary to modern economic theory.	CON
+Libertarianism	People have full rights to their property that governments can't deprive	PRO
+Libertarianism	The benefits of government can be obtained by voluntary mechanisms.	PRO
+Libertarianism	Free-market economics is the ideal form of (non)governance	PRO
+Animal testing	The number of animals used in experiments should be reduced by.	CON
+Animal testing	Bible says harming animals is equivalent to harming humans	CON
+Animal testing	Animals would depict humans as the devil if they could	CON
+Animal testing	Adopting the philosophy of animal rights is individual fulfilling	CON
+Animal testing	Alternatives cannot replace animal testing for certain objectives	PRO
+Animal testing	Tested animals are treated humanely.	PRO
+Animal testing	Animals are good research subjects because they are similar to humans	PRO
+Assisted suicide	Pain can't justify euthanasia, it can be made tolerable with modern medicines	CON
+Assisted suicide	Physicians can never be obligated to facilitate euthanasia	CON
+Assisted suicide	When life can only continue unnaturally, unnatural euthanasia is OK	PRO
+Assisted suicide	Euthanasia is mainly utilized by non-vulnerable, well-educated groups	PRO
+Polygamy	Polygamy is common in some apes; from which humans descended	PRO
+Polygamy	Polygamous women can choose the right husband, even if he is married	PRO
+Tibet independence	Protecting Tibetan culture by opposing modernization is wrongheaded.	CON
+Tibet independence	The United Nations does charter discourages disruptions of national unity such as a move to Tibetan Independence.	CON
+Tibet independence	China violated Tibet autonomy as called for in Seventeen Point Agreement	PRO
+Tibet independence	Tibet can follow the East Timor model to achieving independence	PRO
+Tibet independence	China's militarization of Tibet is a regional risk	PRO
+Withdrawing from Iraq	That coalition troops are not the cause of violence is shown by the fact that most attacks are not against them	CON
+Withdrawing from Iraq	There is no military solution in Iraq	PRO
+Kangaroo culling in Australia	Kangaroos should just be moved, not culled.	CON
+Kangaroo culling in Australia	Translocating Kangaroos is not too difficult or impractical.	CON
+Kangaroo culling in Australia	Kangaroos are part of Australia's identity.	CON
+Kangaroo culling in Australia	Killing millions of kangaroos does not make it sustainable.	CON
+Kangaroo culling in Australia	The Code of Practice in the ACT helps ensures culls are humane.	PRO
+Veal	Anything which involves murdering animals is cruel .	CON
+Veal	Hutches can be more comfortable for veal calves.	PRO
+Veal	Milk-based diets are healthy and humane for veal	PRO
+Right to bear arms in the US	Bear arms means a military/militia, not individual right	CON
+Right to bear arms in the US	America's modern military makes the militia unnecessary for national security.	CON
+Right to bear arms in the US	If bear was commonly taken in a military sense, keep should also be considered in military, collective sense.	CON
+Right to bear arms in the US	If 2nd amendment applied only to militias it would be useless today	PRO
+Right to bear arms in the US	A well-regulated militia can apply to a state-run as well as an independent militia.	PRO
+Right to bear arms in the US	In order to form a militia, citizens require guns and a right to own them	PRO
+DC handgun ban	The implications of the DC handgun ban are not supported nationwide.	CON
+DC handgun ban	2nd amendment combines right to militia and individual arms	CON
+DC handgun ban	A handgun is uniquely valuable in self defense in one's home	CON
+DC handgun ban	Alternative measures can be taken in place of a ban to stem crime and murder.	CON
+DC handgun ban	A strong majority of DC residence support the DC handgun ban.	PRO
+DC handgun ban	If the 2nd amendment was to protect an individual right it would have clearly expressed it	PRO
+Muhammad cartoons controversy	The cartoons were an exercise in hate, rather than free, speech.	CON
+Muhammad cartoons controversy	Hateful and harmful representations of Muhammad are illegal and should be censored.	CON
+Muhammad cartoons controversy	Because the cartoons were legal, they did not require a government response.	PRO
+Osama Bin Laden Sea Burial	Why give Osama Bin Laden a dignified religious burial?	CON
+Osama Bin Laden Sea Burial	Many Muslims would have preferred to see body, confirm death.	CON
+Osama Bin Laden Sea Burial	Sea burial doubts diminishes blow to terrorists.	CON
+Osama Bin Laden Sea Burial	Americans deserved to see Osama bin Laden's body.	CON
+Osama Bin Laden Sea Burial	Islamic law flexible to special burials such as Bin Laden's.	PRO
+Osama Bin Laden Sea Burial	No alternative to sea burial was available.	PRO
+Osama Bin Laden Sea Burial	Sea burial elegant solution to burying Bin Laden's corpse	PRO
+Osama Bin Laden Sea Burial	No country would accept his body; sea burial appropriate.	PRO
+Michigan and Florida delegates in 2008 US elections	Michigan and Florida knowingly violated the rules and so should be punished	CON
+Dollarization	Dollarization will not help nations with sound economic policies	CON
+Dollarization	Dollarization is a band-aid approach to poor economic policy	CON
+Dollarization	Overnight dollarization is not feasible	CON
+Dollarization	The UK would benefit from dollarization	PRO
+Dollarization	Dollarization can benefit nations suffering from hyperinflation	PRO
+Ending US sanctions on Cuba	Sanctioning Cuba is appropriate punishment for its flouting the UN	CON
+Ending US sanctions on Cuba	United Nations Resolutions condemning sanctions have never passed through the Security Council and therefore lack any authority.	CON
+Ending US sanctions on Cuba	Sanctions against Cuba have not worked at all in their long history.	PRO
+Ending US sanctions on Cuba	Sanctions violate the principle of just war	PRO
+Ending US sanctions on Cuba	Sanctions against Cuba violate United Nations resolutions since 1992.	PRO
+Free trade	Global governance will make governing free trade possible	PRO
+Superdelegates	The US superdelegate system is undemocratic	CON
+Superdelegates	Superdelegates represent old era of closed-door politics.	CON
+Legalization of Marijuana	There is no evidence that marijuana decreases cognitive functions	PRO
+Legalization of Marijuana	Marijuana prohibition is equally impossible as alcohol prohibition	PRO
+Prostitution	Prostitution is an inappropriate solution to poverty	CON
+Prostitution	Many libertarian feminists consider that prostitution reflects the independence and dominance of modern women.	PRO
+Prostitution	State resources should not be wasted fighting prostitution	PRO
+Prostitution	Common prostitution is not a biblical conflict	PRO
+Prostitution	Governments should not set moral standards on prostitution	PRO
+UN Security Council veto	Vietnam supports banning UN security council veto power	PRO
+Abolition of nuclear weapons	It's not possible to abolish nuclear weapons now that the are at large.	CON
+Abolition of nuclear weapons	Nuclear weapons can not just be simply destroyed or dismantled,	CON
+Abolition of nuclear weapons	A nuclear abolition treaty is feasible with worldwide unanimity	PRO
+Abolition of nuclear weapons	Israel could be compelled to sign a nuclear weapons ban	PRO
+Return of Israel to pre-1967 borders	Pre-1967 borders uphold legitimate Palestinian aspirations.	PRO
+Three Gorges Dam	The TGD taps China's underexploited hydroelectric potential	PRO
+Primaries in US elections	Well organized conventions have always been coronation events.	PRO
+Hate crime laws	Hate crime is a major problem, requiring a state response	PRO
+Hate crime laws	Hate crime laws provide special protections like other laws do	PRO
+Assault weapons ban in the United States	The Supreme Court has affirmed the individual right to bear arms.	CON
+Assault weapons ban in the United States	Semi-automatic weapons has not decimated animal populations.	CON
+Assault weapons ban in the United States	There are adequate alternatives to assault weapons for self-defense.	PRO
+Assault weapons ban in the United States	Semi-automatic weapons do not serve a sporting purpose	PRO
+Kosovo independence	Serbia's abuses in Kosovo are exaggerated	CON
+Kosovo independence	Kosovar Albanians have terrorized ethnic Serbs in Kosovo	CON
+Kosovo independence	An independent Kosovo is the least bad option now	PRO
+Kosovo independence	The potential of violence should not deter a principled move to an independent Kosovo	PRO
+Kosovo independence	Kosovo's autonomy within Yugoslavia supports moves to independence	PRO
+Kosovo independence	Serbian abuses invalidate their sovereignty over Kosovo	PRO
+Driftnet ban	By-catch doesn’t need to be a reason to ban driftnets.	CON
+Driftnet ban	The reports of extinction through over-fishing are inconclusive and based on anecdotal evidence.	CON
+Driftnet ban	Driftnet fishing is a form of subsistence living for many.	CON
+Driftnet ban	An effective driftnet ban must go beyond international waters into countries' Exclusive Economic Zones.	PRO
+Ecotourism	Ecotourism is just green-washing for profit	CON
+Corn ethanol	Corn ethanol is inferior to sugar ethanol	CON
+Corn ethanol	Corn feedstock is a beneficial byproduct of corn ethanol production	PRO
+Corn ethanol	Many race cars run on corn ethanol:	PRO
+Boycott of 2008 Olympics in China	Boycotting China will be against the spirit of the Olympics	CON
+Boycott of 2008 Olympics in China	Olympic boycotts have achieved nothing historically	CON
+Boycott of 2008 Olympics in China	China's unwillingness influence Burma's crisis justifies an Olympic Boycott	PRO
+Boycott of 2008 Olympics in China	Boycott Beijing Olympics	PRO
+Fish farming ban	Farmed fish is not healthy	PRO
+Bush economic stimulus plan	A tax rebate is not a sustained, long-term stimulus	CON
+Bush economic stimulus plan	Tax Rate Cuts, Not Tax Rebates, Stimulate the Economy	CON
+700 mile US Mexico border fence	US education and health care are more important than building a border fence	CON
+700 mile US Mexico border fence	Building a border fence is not racism	PRO
+700 mile US Mexico border fence	San Diego is symbol of efficacy of fence	PRO
+700 mile US Mexico border fence	The 700 mile fence is not relatively expensive	PRO
+700 mile US Mexico border fence	Good fences make good neighbors	PRO
+Waterboarding	Torture violates the dignity of the human being	CON
+Waterboarding	Torture violates protections of the vulnerable	CON
+Waterboarding	Waterboarding is a mild interrogation technique	PRO
+Waterboarding	Torture is justified in saving lives.	PRO
+Waterboarding	Torture is justified in the ticking time-bomb scenario	PRO
+Waterboarding	Waterboarding is highly valuable in the war on terror	PRO
+Legalization of drugs	Forbidden fruit concept is nonsense.	CON
+Legalization of drugs	There is no such thing as a safe drug (regulated by the state).	CON
+Legalization of drugs	An immoral drug-trade should be confined to criminal-agents rather than governments.	CON
+Legalization of drugs	Individuals have the right to control their bodies and consume drugs	PRO
+Legalization of drugs	Drug-use does not directly harm others, so it should be legalized	PRO
+Drivers licenses for Illegal immigrants in the US	Offering illegal immigrants driver's licenses would violate the rule of law	CON
+Seattle deep-bore tunnel	Seattle doesn't need a tunnel highway	CON
+Seattle deep-bore tunnel	Environmental groups prefer surface route over tunnel.	CON
+Seattle deep-bore tunnel	Development after removing viaduct will pay for tunnel.	PRO
+Seattle deep-bore tunnel	Clean electric cars will use Seattle's tunnel.	PRO
+Seattle deep-bore tunnel	Tunnel works well with surface-street option.	PRO
+High-speed rail	High-speed rail can't work without subsidies.	CON
+High-speed rail	High speed rail not best way to create local jobs.	CON
+High-speed rail	High-speed trains: costly govt project in search of need	CON
+Mandatory military service	Impossible to mandate morality of state	CON
+Mandatory military service	Government better off running training schemes.	CON
+Mandatory military service	Mandatory military service popular where it exists.	PRO
+No-fly zone over Libya	No-fly zone does not constitute military intervention.	PRO
+Military recruiting in public schools	Military uses sophisticated persuasion techniques on kids.	CON
+Military recruiting in public schools	Recruiters there to persuade, not provide information.	CON
+Military recruiting in public schools	Military recruiting in high schools is not essential.	CON
+Military recruiting in public schools	Non-military recruiters lack similar resources for recruiting.	CON
+Military recruiting in public schools	The military actively strives for honesty among recruiters	PRO
+Military recruiting in public schools	The military has a compelling story to tell to youth.	PRO
+Military recruiting in public schools	Military recruiters are the nation's first line of defense	PRO
+Bullfighting	Unfair fight; bull is severely injured before matador	CON
+Bullfighting	Not a fair fight: gang of armed men against one bull.	CON
+Bullfighting	Bullfighting is not that big of a tourist draw.	CON
+Bullfighting	Majority on bullfighting shouldn't dictate end of tradition	PRO
+Was the War in Iraq worth it?	War in Iraq was not mainly against terrorists.	CON
+Was the War in Iraq worth it?	Number of US troops lost in Iraq is relatively small	PRO
+Phasing out fossil fuel subsidies	Appropriate that oil more heavily subsidized than renewables.	CON
+Castration of sex offenders	Castrating sex offenders violates right to deny treatment.	CON
+Castration of sex offenders	Innocent shouldn't face choice of more prison vs. castration.	CON
+Castration of sex offenders	Castration is better solution than temporary prison	PRO
+Castration of sex offenders	Sex predators are monsters who forgo most rights.	PRO
+Castration of sex offenders	Sexual assault is one of worst kinds; castration appropriate.	PRO
+Castration of sex offenders	Castration is about helping, not hating/hurting offender.	PRO
+Palestinian right of return	Palestinians never citizens of Israel, no right to return.	CON
+Palestinian right of return	Right of return based on claim of unprovoked victimhood.	CON
+Palestinian right of return	No formal international legal right of return for Palestinians	CON
+Palestinian right of return	Denationalization of Palestinians illegal; have right of return.	PRO
+Palestinian right of return	Israel has consistently dehumanized Palestinians and their rights.	PRO
+Palestinian right of return	Unjust for Jews to be able to emigrate, but not Palestinians return.	PRO
+Palestinian right of return	Plenty of room in Israel for Palestinians to return	PRO
+Compulsory voting	There are many reasons for not participating in elections.	CON
+Compulsory voting	Money spent on mandatory voting is better spent elsewhere.	CON
+Compulsory voting	Compulsory voting won't necessarily make sure the better and capable government comes into power.	CON
+Compulsory voting	Voting is more of a duty than a right.	PRO
+Compulsory voting	Voters could be given option to vote none of the above.	PRO
+Puerto Rico statehood in America	Puerto Ricans have rejected statehood many times now.	CON
+Puerto Rico statehood in America	Puerto Ricans deserve full political rights and citizenship.	PRO
+Puerto Rico statehood in America	Puerto Ricans have earned statehood through support of US.	PRO
+Puerto Rico statehood in America	Puerto Rico as colony is unacceptable.	PRO
+Puerto Rico statehood in America	Puerto Rico has waited for too long for full citizenship.	PRO
+DREAM Act	DREAM Act unsupported without comprehensive reform.	CON
+DREAM Act	Young illegal immigrants are US asset needing development	PRO
+DREAM Act	University leaders almost universally support DREAM Act.	PRO
+Joint JD/MBA degree	Law schools offer classes in business; don't need joint degree.	CON
+Joint JD/MBA degree	JD/MBA is well suited for a number of specialized fields.	PRO
+Joint JD/MBA degree	JD/MBA is great for mergers and acquisitions.	PRO
+Joint JD/MBA degree	Deeper knowledge of JD/MBA is always valuable.	PRO
+New START Treaty	US should not sign New START to bribe Russia on Iran.	CON
+New START Treaty	New START is not adequately verifiable.	CON
+New START Treaty	New START is important to medical health.	PRO
+Airport security profiling	Terrorists don't fit a neat profile	CON
+Airport security profiling	Profiling works well for Israel, can work well elsewhere	PRO
+Airport security profiling	Most people accept profiling as necessary for security.	PRO
+Airport security profiling	Profiling will help avoid invasive scanners and pat-downs.	PRO
+Underground nuclear waste storage	Nuclear energy requires harmful mining/milling of uranium.	CON
+Underground nuclear waste storage	Underground storage will never overcome societal fears.	CON
+Underground nuclear waste storage	Nuclear-intensive France does not use underground storage.	CON
+Underground nuclear waste storage	Scientific consensus supports nuclear waste underground storage	PRO
+Underground nuclear waste storage	Underground nuclear waste storage is safest option	PRO
+Underground nuclear waste storage	Underground nuclear waste storage far superior than status quo	PRO
+Funding transparency for TV issue ads in elections	Opponents of anonymous campaign ads are just clinging to power	CON
+Funding transparency for TV issue ads in elections	General statements against disclosing TV issue ad funding	CON
+Funding transparency for TV issue ads in elections	Anonymity is essential to free speech in modern democracy	CON
+Funding transparency for TV issue ads in elections	Anonymous funding of TV ads runs against principles of free speech	PRO
+Funding transparency for TV issue ads in elections	If you're going to attack a candidate, reveal your identity	PRO
+Funding transparency for TV issue ads in elections	Attack ads are a part of politics, but sources must be known	PRO
+Funding transparency for TV issue ads in elections	Foreign interests could be funding anonymous issue ads	PRO
+Cellulosic ethanol	There is not enough land too grow sufficient cellulosic ethanol	CON
+Cellulosic ethanol	Processing cellulose is more difficult than starches	CON
+Cellulosic ethanol	Cellulosic ethanol packs three-times the energy as corn ethanol.	PRO
+Carbon capture and storage	Climate change is best solved by energy efficiency, not CCS	CON
+Carbon capture and storage	Carbon capture and storage is smoke-and-mirrors tactic for big coal	CON
+Carbon capture and storage	Risks of stored C02 leaking is very low	PRO
+Carbon capture and storage	Algae CCS produces valuable bi-products.	PRO
+Geoengineering	Geoengineering comes from human hubris; let mother nature work	CON
+Geoengineering	Geoengineering risks can be tested, corrected, avoided.	PRO
+Geoengineering	Many geoengineering approaches are harmless like painting roofs.	PRO
+Geoengineering	Geoengineering solutions often mimic natural mechanisms.	PRO
+Geoengineering	Many green orgs and scientists support geoengineering option.	PRO
+Oil sands	Tar sands unnecessary if focus is placed on clean energy	CON
+Oil sands	Hydrocarbons required in forseeable future, including oil sands	PRO
+Oil sands	Better to import oil from Canadian sands than from corrupt regimes	PRO
+Oil sands	Oil sands will be used by some states no matter what	PRO
+Oil sands	Oil sands are too economically important to abandon	PRO
+Ground zero mosque	Developers have right to build ground zero mosque, but should not	CON
+Ground zero mosque	First amendment protects right to build ground zero mosque	PRO
+Ground zero mosque	Defending mosque honors constitution first responders were protecting.	PRO
+Ground zero mosque	Islam is a religion of peace.	PRO
+Open primaries	General election are open; primaries are OK to be closed.	CON
+Open primaries	Primaries too important in democracy to be internal to parties.	PRO
+Law school	Lawyers rarely engage in intellectual work	CON
+Law school	New lawyers can gain credibility/responsibility quickly.	PRO
+Law school	Practicing law is more art than science.	PRO
+Deporting illegal immigrants in the US	No past administration engaged in full deportation campaign	CON
+Deporting illegal immigrants in the US	Trail of Tears demonstrates injustice of mass deportation.	CON
+Deporting illegal immigrants in the US	Americans oppose the deportation of all illegal immigrants.	CON
+Deporting illegal immigrants in the US	General statements in favor of deporting illegals from the US	PRO
+Deporting illegal immigrants in the US	Mass deportation has been successful in the past	PRO
+MBA	Total cost of MBA (including opportunity costs) is high	CON
+MBA	MBA is a good way to get into inner circle of a business	PRO
+MBA	Corporate demand for MBA is strong	PRO
+European Monetary Fund	EMF will not solve EU structural fiscal problems	CON
+European Monetary Fund	Strictly enforcing budgets is better than creating EMF.	CON
+European Monetary Fund	EMF funded proportional to GDP unpopular among big states.	CON
+European Monetary Fund	European Monetary Fund creates global AND regional system	PRO
+Breastfeeding in public	Breasts are also for sex; public breastfeeding indecent	CON
+Breastfeeding in public	That breastfeeding is natural does not make it decent in public	CON
+Banning vuvuzela horns at the 2010 World Cup	Guests at World Cup should embrace S. African vuvuzela tradition.	CON
+Banning vuvuzela horns at the 2010 World Cup	Ear plugs can effectively limit any damage from vuvuzela.	CON
+Banning vuvuzela horns at the 2010 World Cup	Fans can be trusted to use vuvuzelas safely.	CON
+Medical marijuana dispensaries	That marijuana is herbal does not mean it is safe	CON
+Medical marijuana dispensaries	Marijuana is a safer alternative to many medications	PRO
+Instant replay in baseball	Machines shouldn't be determining calls in baseball	CON
+Instant replay in baseball	Instant replay should not exist for sake of personal achievements	CON
+Instant replay in baseball	Not enough important bad calls occur to justify instant replay	CON
+Instant replay in baseball	Instant replay does not diminish human element of baseball	PRO
+Israeli raid on Gaza flotilla	Israeli raid in international waters violates i-law	CON
+Israeli raid on Gaza flotilla	Israeli use of force on flotilla was disproportionate.	CON
+Israeli raid on Gaza flotilla	Israel issued warning to Gaza flotilla, which they ignored	PRO
+Israeli raid on Gaza flotilla	Israel miscalculated on flotilla, but acted in self-defense	PRO
+Balanced budget amendment to US Constitution	Unworkable to measure and define balanced budget	CON
+Balanced budget amendment to US Constitution	Congress shouldn't make Amend if it can't make good fiscal leg.	CON
+Balanced budget amendment to US Constitution	Balanced budget amend in states is often a bad thing.	CON
+Balanced budget amendment to US Constitution	Politicians can't make hard choices; BBA necessary	PRO
+Balanced budget amendment to US Constitution	General statements in favor of balanced budget amendment.	PRO
+Balanced budget amendment to US Constitution	Balanced budget will bring fed spending in line with states'.	PRO
+Restoring American Financial Stability Act of 2010	Consumers can be protected w/o new financial bureaucracy	CON
+Restoring American Financial Stability Act of 2010	Capitalism is wonderful, but requires regulations	PRO
+Restoring American Financial Stability Act of 2010	Goldman Sachs fraud case highlighted need for financial reform	PRO
+Greece bailout	Public opinion does not support the Greece bailout	CON
+Greece bailout	Greek debt is too large for bailout to solve	CON
+Greece bailout	Bailout addresses wrong problem: liquidity not solvency	CON
+Greece bailout	Bailing out Greece is a necessary evil	PRO
+Greece bailout	Bailout of Greece provides long-term solution.	PRO
+Mine Ban Treaty (Ottawa Treaty)	Geneva Conventions regulates use of landmines; ban is excessive.	CON
+Mine Ban Treaty (Ottawa Treaty)	Mine Ban Treaty fails to distinguish between different kinds of mines.	CON
+Mine Ban Treaty (Ottawa Treaty)	Efforts to clear landmines should be improved, instead banning them.	CON
+Mine Ban Treaty (Ottawa Treaty)	The usefulness of landmines is significantly over-represented	PRO
+Graduated response antipiracy laws	Graduated response unnecessary; antipiracy laws already exist	CON
+Graduated response antipiracy laws	Graduated response is best compromise b/w stakeholders	PRO
+Network neutrality	Existing laws check unfair practices by broadband owners	CON
+Network neutrality	Net Neutrality is a solution in search of a problem	CON
+Network neutrality	ISPs have right to free speech, including right to limit access.	CON
+Network neutrality	Net neutrality regulates service providers, not Internet	PRO
+Network neutrality	Net neutrality has historical precedent	PRO
+Constitutionality of US health insurance mandates	Not buying insurance is no transaction; no commerce clause authority	CON
+Constitutionality of US health insurance mandates	There is no fundamental right to go without insurance	PRO
+Constitutionality of US health insurance mandates	Health insurance mandates fall under taxation powers	PRO
+Constitutionality of US health insurance mandates	Commerce clause gives power to mandate health insurance	PRO
+US debt ceiling deal	Sweeping statements against the debt deal.	CON
+US debt ceiling deal	Deal far less damaging than default.	PRO
+US debt ceiling deal	Deal's cuts more modest than GOP wanted; easier on econ.	PRO
+US debt ceiling deal	Debt ceiling helps Obama appeal to moderates.	PRO
+US offshore oil drilling	Allowing offshore drilling is all about oil company profits	CON
+US offshore oil drilling	Offshore oil still valuable, even if years away	PRO
+US offshore oil drilling	Offshore drilling has a very strong environmental record	PRO
+US offshore oil drilling	Offshore drilling rigs are resilient, withstanding even hurricanes	PRO
+Google decision to stop censoring results in China	Google should not politicize its commerce in China	CON
+Google decision to stop censoring results in China	Bad idea for Google to leave biggest search market	CON
+Google decision to stop censoring results in China	Google's decision in China was mostly ethics, not business	PRO
+War on Drugs	War on Drugs has been effective in many places	PRO
+War on Drugs	War on Drugs is a good idea even if not winnable	PRO
+War on Drugs	State justified in protecting individuals from own drug abuse.	PRO
+Gay marriage	Acceptance of gay marriage should not be imposed on citizens	CON
+Gay marriage	Marriage is mainly for reproduction; can't include gays	CON
+Gay marriage	Gay parenting is just as good as straight parenting	PRO
+Gay marriage	Marriage is about much more than kids; gays qualify	PRO
+Gay marriage	Gay marriage should not be banned for tradition	PRO
+Gay marriage	Gay marriage is a fundamental, equal right	PRO
+Corporate personhood	Corps. not full community-members, ineligible for personhood	CON
+Corporate personhood	Corporations are property; should have few rights	CON
+Corporate personhood	Corps focus on profits, not eligible for rights	CON
+Corporate personhood	Corporations have a right to defend their interests	PRO
+Corporate free speech	Free speech does not apply equally to companies	CON
+Corporate free speech	Wrong to fine/jail corporate citizens for speech	PRO
+Corporate free speech	Voters can be trusted to judge corporate speech/messages	PRO
+Big government	Government avoids pitfalls of focus on profits	PRO
+College football playoffs	College football can evolve to include a playoff	PRO
+2010 US bank tax	2010 bank tax is pure populism	CON
+2010 US bank tax	Bailout benefited taxpayers; repayment unnecessary	CON
+2010 US bank tax	Bank tax will not crimp lending to taxpayers	PRO
+2010 US bank tax	Bank tax is not too great of a burden on banks	PRO
+Full-body scanners at airports	Scanners do not reveal things in body cavities	CON
+Full-body scanners at airports	There are better alternatives to body scanners at airports	CON
+Full-body scanners at airports	Full-body scanners are very expensive.	CON
+Full-body scanners at airports	Scanners can be modified to accommodate children.	PRO
+US health care reform	2009 health bill rushed through for political reasons	CON
+US health care reform	2009 health care reform bill can be improved over time	PRO
+Direct democracy	Being part of the process is a requirement in a democracy.	PRO
+Direct democracy	Direct democracy is relatively cheap	PRO
+Affirmative action	Minority schools disprove perceived value of diversity	CON
+Affirmative action	Affirm action justly asks whites to sacrifice for common good	PRO
+Affirmative action	Diversity is supplimentary to goal of fairness.	PRO
+EU elected president	Strong presidential state powers are unnecessary and uncalled for.	CON
+EU elected president	EU population not involved enough to elect president	CON
+EU elected president	Being a part of the process is an important requirement in any democracy.	PRO
+Gene patents	Genes cannot be owned practically, are part of commons	CON
+Gene patents	Isolated gene sequences are new, not part of nature	PRO
+Gene patents	Gene sequencing can be useful and thus can be patented.	PRO
+Gene patents	Little evidence exists that gene patents hurt research	PRO
+Gays in the US military	Most members of US military support ban on gays	CON
+Gays in the US military	Gay soldiers do not undermine unit morale and cohesion	PRO
+Gays in the US military	Privacy issues with gays in the military can be resolved	PRO
+Nuclear energy	Uranium is abundant and will last for hundreds of years	PRO
+Nuclear energy	Nuclear energy economies of scale are improving	PRO
+Nuclear energy	Nuclear waste radiation no worse than natural radiation	PRO
+Pornography	Pornography does not denigrate/harm women.	PRO
+Pornography	Pornography is an expression falling under freedom of speech.	PRO
