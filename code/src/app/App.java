@@ -304,13 +304,13 @@ public class App {
 		double f1Con = 2.0 * precisionCon * recallCon / (precisionCon + recallCon);
 
 		System.out.println("Correctly Classified: " + (truePro + trueCon) + " out of " + total);
-		System.out.println("Con classified as Con: " + truePro);
-		System.out.println("Pro classified as Pro: " + trueCon);
+		System.out.println("Pro classified as Pro: " + truePro);
+		System.out.println("Con classified as Con: " + trueCon);
 		System.out.println("Pro classified as Con: " + falseCon);
 		System.out.println("Con classified as Pro: " + falsePro);
 		System.out.println("Accuracy: " + ((double) (truePro + trueCon) / (double) total));
-		System.out.println("F1 score (pro): " + f1Con + ", ");
-		System.out.println("F1 score (con): " + f1Pro + ", ");
+		System.out.println("F1 score (pro): " + f1Pro + ", ");
+		System.out.println("F1 score (con): " + f1Con + ", ");
 		System.out.println("F1 score (macro): " + ((f1Pro + f1Con) / 2.0) + ", ");
 
 		return total;
